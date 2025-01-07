@@ -27,11 +27,10 @@ export type Direction = "left" | "right" | "up" | "down";
 
 export default function TinderCardCustom({
   users,
-  withButtons = true,
+  // withButtons = true,
 }: TinderCardCustomProps) {
   const [currentIndex, setCurrentIndex] = useState<number>(users.length - 1);
-  const [_lastDirection, _setLastDirection] = useState<string>();
-  const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [, setIsLoading] = useState<boolean>(false);
   // used for outOfFrame closure
   const currentIndexRef = useRef(currentIndex);
   const canGoBack = currentIndex < users.length - 1;
@@ -47,7 +46,6 @@ export default function TinderCardCustom({
 
   const updateCurrentIndex = (val: number) => {
     setCurrentIndex(val);
-    // eslint-disable-next-line react-compiler/react-compiler
     currentIndexRef.current = val;
     if (val === -1)
       setTimeout(() => {
@@ -71,12 +69,12 @@ export default function TinderCardCustom({
   };
 
   // increase current index and show card
-  const _goBack = async () => {
-    if (!canGoBack) return;
-    const newIndex = currentIndex + 1;
-    updateCurrentIndex(newIndex);
-    await childRefs[newIndex].current?.restoreCard();
-  };
+  // const _goBack = async () => {
+  //   if (!canGoBack) return;
+  //   const newIndex = currentIndex + 1;
+  //   updateCurrentIndex(newIndex);
+  //   await childRefs[newIndex].current?.restoreCard();
+  // };
 
   return (
     <>
@@ -86,7 +84,7 @@ export default function TinderCardCustom({
           <TinderCard
             ref={childRefs[index]}
             key={`${user.user_id}`}
-            onSwipe={async (dir) => swiped(index)}
+            onSwipe={async (_dir) => swiped(index)}
             onCardLeftScreen={() =>
               outOfFrame(user.username as string, user.user_id)
             } //?  have checked before rendering

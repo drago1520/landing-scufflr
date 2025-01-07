@@ -1,12 +1,12 @@
 import React from "react";
-import Image from "next/image";
+// import Image from "next/image";
 
 import AppStoreButton from "./AppStoreButton";
 import PlayStoreButton from "./PlayStoreButton";
 
 import { heroDetails } from "@/data/hero";
 import PWAButton from "./PWA-Button";
-import { PersonInfoCard } from "./TinderCard/PersonInfoCard";
+// import { PersonInfoCard } from "./TinderCard/PersonInfoCard";
 import { UserPublicInfo } from "@/data/userModel";
 import TinderCardCustom from "./TinderCard/Tinder-card";
 

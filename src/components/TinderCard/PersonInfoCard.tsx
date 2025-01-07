@@ -1,5 +1,5 @@
 import { UserPublicInfo } from "@/data/userModel.js";
-import { BadgeCheck } from "lucide-react";
+// import { BadgeCheck } from "lucide-react";
 import { BiSolidBadgeCheck } from "react-icons/bi";
 import { SlLocationPin } from "react-icons/sl";
 
@@ -10,7 +10,7 @@ export type PersonInfoCardProps = {
 
 export const PersonInfoCard = ({
   user,
-  isSwipeForbiden = false,
+  // isSwipeForbiden = false,
 }: PersonInfoCardProps) => {
   const sport = user?.xp_levels?.[0].sport;
   const level = user?.xp_levels?.[0].level;
