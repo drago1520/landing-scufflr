@@ -5,7 +5,7 @@ import { GoogleTagManager } from "@next/third-parties/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { siteDetails } from "@/data/siteDetails";
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import "./globals.css";
 
 const manrope = Manrope({ subsets: ["latin"] });
@@ -59,6 +59,7 @@ export default function RootLayout({
         className={`${manrope.className} ${sourceSans.className} antialiased`}
       >
         <Header />
+        <SpeedInsights />
         <main>{children}</main>
         <Footer />
       </body>
