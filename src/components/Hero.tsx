@@ -11,6 +11,7 @@ import { UserPublicInfo } from "@/data/userModel";
 import TinderCardCustom from "./TinderCard/Tinder-card";
 
 const Hero: React.FC = () => {
+  //TODO Add more users. Ourselves
   const users: UserPublicInfo[] = [
     {
       user_id: 506,
