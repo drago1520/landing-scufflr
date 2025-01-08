@@ -65,9 +65,11 @@ const Hero: React.FC = () => {
           alt="scufflr app mockup"
           className="relative mt-12 md:mt-16 mx-auto z-10"
         /> */}
-        <div className="w-full flex justify-center items-center my-20">
+        <div className="w-full flex flex-col justify-center items-center my-20">
           <TinderCardCustom users={users} />
+          <p className="z-10 italic text-sm">*Demo of the real app</p>
         </div>
+        
       </div>
     </section>
   );
