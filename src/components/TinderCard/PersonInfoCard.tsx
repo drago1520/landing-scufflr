@@ -34,10 +34,10 @@ export const PersonInfoCard = ({
             <div className="px-[0.4rem] py-[0.125rem] border border-none rounded-[0.5rem] tracking-[0.02rem] font-semibold whitespace-nowrap opacity-80 transition-filter duration-100 mr-2 capitalize inline-block text-xs bg-red-500">{`${sport} - ${level}`}</div>
           </div>
           <div className="flex justify-start text-3xl font-semibold gap-2 items-center">
-            <h1 className="">
+            <p className="font-bold text-3xl">
               {user?.username}{" "}
               <span className="font-normal text-2xl">{user?.age}y.</span>
-            </h1>
+            </p>
             {/* <BadgeCheck color="#3498db" strokeWidth={2.4} absoluteStrokeWidth /> */}
             <BiSolidBadgeCheck color="cyan" className="saturate-50" />
           </div>

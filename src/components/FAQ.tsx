@@ -8,12 +8,14 @@ import { BiMinus, BiPlus } from "react-icons/bi";
 
 import SectionTitle from "./SectionTitle";
 import { faqs } from "@/data/faq";
+import { footerDetails } from "@/data/footer";
+import { FaViber, FaWhatsapp } from "react-icons/fa6";
 
 const FAQ: React.FC = () => {
   return (
     <section id="faq" className="py-10 lg:py-20">
       <div className="flex flex-col lg:flex-row gap-10">
-        <div className="">
+        <div>
           <p className="hidden lg:block text-foreground-accent">FAQ&apos;S</p>
           <SectionTitle>
             <h2 className="my-3 !leading-snug lg:max-w-sm text-center lg:text-left">
@@ -25,16 +27,26 @@ const FAQ: React.FC = () => {
           </p>
           <a
             href="mailto:office@scufflr.com"
+            target="_blank" rel="noopener"
             className="mt-3 block text-xl lg:text-4xl text-secondary font-semibold hover:underline text-center lg:text-left"
           >
             office@scufflr.com
           </a>
           <a
             href="tel:+359988700631"
+            target="_blank" rel="noopener"
             className="mt-3 block text-xl lg:text-4xl text-secondary font-semibold hover:underline text-center lg:text-left"
           >
             +359 988 700 631
           </a>
+          <div className="mt-3 flex justify-center hover:underline gap-8">
+            <a href={footerDetails.viber} target="_blank" rel="noopener">
+              <FaViber size={24} color="purple" />
+            </a>
+            <a href={footerDetails.whatsapp} target="_blank" rel="noopener">
+              <FaWhatsapp  size={24} color="green" />
+            </a>
+          </div>
         </div>
 
         <div className="w-full lg:max-w-2xl mx-auto border-b">

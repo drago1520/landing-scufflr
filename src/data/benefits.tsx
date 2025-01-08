@@ -47,11 +47,11 @@ export const benefits: IBenefit[] = [
   {
     title: "Seamless Sparring",
     description:
-      "Start building strength today, no trainers required. Scufflr makes martial arts accessible and straightforward.",
+      "Want to test out a new martial art just for the fun of it? Scufflr makes martial arts accessible and straightforward.",
     bullets: [
       {
         title: "Any Martial Art",
-        description: "Find cross-discipline martial arts training.",
+        description: "Find cross-discipline martial arts training. Ever wondered what it is like to practice another martial art but did not want to go to the gym? Yeah we know the feeling.",
         icon: <FiDollarSign size={26} />,
       },
       {
@@ -76,19 +76,19 @@ export const benefits: IBenefit[] = [
       {
         title: "No Rules? No Problem!",
         description:
-          "Enjoy training in your terms. We connect you with like-minded people.",
+          "Enjoy training in your terms. Maybe you enjoy more laid-back trainings, maybe you are serious about martial arts. We connect you with like-minded people.",
         icon: <FiLock size={26} />,
       },
       {
         title: "Martial art friends are forever",
         description:
-          "Best bonds are build with martial arts. Start building now!",
+          "2:30 minutes in ring shows more character out of people than 20 years at the office. Best bonds are build with martial arts. Start building partners and friendships now!",
         icon: <FiUser size={26} />,
       },
       {
         title: "Safe community",
         description:
-          "Our system constantly monitors for suspicious activity to keep our community safe.",
+          "Our system constantly monitors for suspicious activity to keep our community safe. We also do manual checks by sparring with our users.",
         icon: <FiShield size={26} />,
       },
     ],
@@ -103,13 +103,13 @@ export const benefits: IBenefit[] = [
     bullets: [
       {
         title: "Connect with other trainees",
-        description: "Ever feel bored from the same people at your gym?",
+        description: "Ever feel bored from the same people at your gym? Probably bored of the trainer?",
         icon: <MdGroups size={26} />,
       },
       {
         title: "Find the best place to learn",
         description:
-          "Easily experience different martial arts by training with different people.",
+          "Easily experience different martial arts by training with different people. Practice & experience makes perfect.",
         icon: <GiGymBag size={26} />,
       },
       {

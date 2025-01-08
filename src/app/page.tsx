@@ -29,8 +29,8 @@ const HomePage: React.FC = () => {
         <Benefits />
         <Section
           id="Book-a-meeting"
-          title="Book-a-meeting"
-          description="Not sure if it is right for you? Book a free 15 minute call with our Founder to help you make the decision"
+          title="Book a call with our founder"
+          description="Not sure if it is right for you? Book a free 15 minute call with our Founder to help you make the decision. We really want to find YOUR training buddy!"
         >
           <CalendlyWidget />
         </Section>

@@ -50,8 +50,8 @@ const Hero: React.FC = () => {
           {heroDetails.subheading}
         </p>
         <div className="mt-6 flex flex-col sm:flex-row items-center sm:gap-4 w-fit mx-auto">
-          <PWAButton dark />
           <AppStoreButton dark />
+          <PWAButton dark />
           <PlayStoreButton dark />
         </div>
         {/* <Image

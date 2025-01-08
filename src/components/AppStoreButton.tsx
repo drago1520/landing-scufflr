@@ -9,7 +9,7 @@ const AppStoreButton = ({ dark }: { dark?: boolean }) => {
       <button
         type="button"
         className={clsx(
-          "flex items-center justify-start min-w-[205px] hover:scale-105 transition duration-300 mt-3 px-6 h-14 rounded-full w-full sm:w-fit",
+          "flex items-center justify-start min-w-[205px] hover:scale-105 transition duration-300 mt-3 px-6 h-14 rounded-full w-full sm:w-fit scale-75",
           {
             "text-white bg-foreground hover:bg-[#1f1e1e] transition duration-300":
               dark,

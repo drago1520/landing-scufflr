@@ -43,9 +43,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <title>Scufflr | tinder for sparring 🔥🥋</title>
+      <title>Scufflr | tinder for sparring | Find Training Buddy 🔥🥋</title>
       <meta name="og:type" content="website" />
-      <meta name="og:title" content="Scufflr | tinder for sparring 🔥🥋" />
+      <meta name="og:title" content="Scufflr | tinder for sparring | Find Training Buddy 🔥🥋" />
       <meta
         name="og:description"
         content="Tinder for sparring. Scufflr is the easiest way to find sparring partners on every level, or simply train casually. 🥋 Check out the app now!"

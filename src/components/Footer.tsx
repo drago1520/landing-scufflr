@@ -46,6 +46,7 @@ const Footer: React.FC = () => {
           {footerDetails.email && (
             <a
               href={`mailto:${footerDetails.email}`}
+              target="_blank" rel="noopener"
               className="block text-foreground-accent hover:text-foreground"
             >
               Email: {footerDetails.email}
@@ -55,6 +56,7 @@ const Footer: React.FC = () => {
           {footerDetails.telephone && (
             <a
               href={`tel:${footerDetails.telephone}`}
+              target="_blank" rel="noopener"
               className="block text-foreground-accent hover:text-foreground"
             >
               Phone: {footerDetails.telephone}
@@ -87,7 +89,7 @@ const Footer: React.FC = () => {
         </p>
         <p className="text-sm mt-2 text-gray-500">
           Made with &hearts; by{" "}
-          <a href="https://nexilaunch.com" target="_blank">
+          <a href="https://nexilaunch.com" target="_blank" rel="nofollow" >
             Nexi Launch
           </a>
         </p>
@@ -96,6 +98,7 @@ const Footer: React.FC = () => {
           <a
             href="https://ui8.net/youthmind/products/fintech-finance-mobile-app-ui-kit"
             target="_blank"
+            rel="nofollow"
           >
             Youthmind
           </a>

@@ -5,6 +5,8 @@ export const footerDetails: {
   quickLinks: IMenuItem[];
   email: string;
   telephone: string;
+  viber: string;
+  whatsapp: string;
   socials: ISocials;
 } = {
   subheading:
@@ -29,6 +31,8 @@ export const footerDetails: {
   ],
   email: "office@scufflr.com",
   telephone: "+359 988 700 631",
+  viber: "https://connect.viber.com/business/0c1dceb8-cd63-11ef-ac38-f2be0cea40e5?utm_source=manage&utm_medium=copy_link",
+  whatsapp: "https://wa.me/qr/2EWZSLHDCUXJA1",
   socials: {
     // github: 'https://github.com',
     // x: 'https://twitter.com/x',
