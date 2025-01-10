@@ -50,7 +50,7 @@ const Header: React.FC = () => {
             ))}
             <li>
               <Link
-                href="#cta"
+                href="https://app.scufflr.com/home"
                 className="bg-primary text-white hover:bg-red-400 px-8 py-3 rounded-full transition-colors"
               >
                 Open App
