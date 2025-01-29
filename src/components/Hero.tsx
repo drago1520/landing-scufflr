@@ -1,3 +1,5 @@
+/* eslint-disable tailwindcss/no-contradicting-classname */
+/* eslint-disable tailwindcss/no-custom-classname */
 import React from "react";
 // import Image from "next/image";
 
@@ -9,6 +11,7 @@ import PWAButton from "./PWA-Button";
 // import { PersonInfoCard } from "./TinderCard/PersonInfoCard";
 import { UserPublicInfo } from "@/data/userModel";
 import TinderCardCustom from "./TinderCard/Tinder-card";
+import Image from "next/image";
 
 const Hero: React.FC = () => {
   //TODO Add more users. Ourselves
@@ -35,22 +38,24 @@ const Hero: React.FC = () => {
   return (
     <section
       id="hero"
-      className="relative flex items-center justify-center pb-0 pt-32 md:pt-40 px-5 overflow-hidden"
+      className="relative flex items-center justify-center overflow-hidden px-5 pb-0 pt-32 md:pt-40"
     >
-      <div className="absolute left-0 top-0 bottom-0 -z-10 w-full">
-        <div className="absolute inset-0 h-full w-full bg-hero-background bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:40px_40px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_60%,transparent_100%)]"></div>
+      <div className="absolute inset-y-0 left-0 -z-10 w-full">
+        <div className="bg-hero-background absolute inset-0 size-full bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:40px_40px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_60%,transparent_100%)]"></div>
       </div>
 
-      <div className="absolute left-0 right-0 bottom-0 backdrop-blur-[2px] h-40 bg-gradient-to-b from-transparent via-[rgba(233,238,255,0.5)] to-[rgba(202,208,230,0.5)]"></div>
+      <div className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-b from-transparent via-[rgba(233,238,255,0.5)] to-[rgba(202,208,230,0.5)] backdrop-blur-[2px]"></div>
 
       <div className="text-center">
-        <h1 className="text-4xl md:text-6xl md:leading-tight font-bold text-foreground max-w-lg md:max-w-2xl mx-auto">
+        <h1 className="text-foreground mx-auto max-w-lg text-4xl font-bold md:max-w-2xl md:text-6xl md:leading-tight">
           {heroDetails.heading}
         </h1>
-        <p className="mt-4 text-foreground max-w-lg mx-auto">
+        <p className="text-foreground mx-auto mt-4 max-w-lg">
           {heroDetails.subheading}
         </p>
-        <div className="mt-6 flex flex-col sm:flex-row items-center sm:gap-4 w-fit mx-auto">
+        <div className="relative mx-auto mt-6 flex w-fit flex-col items-center sm:flex-row sm:gap-4">
+          <img width={65} className="absolute -top-5 transform-gpu z-10 -left-20 rotate-[105deg]" src="/svg/up-arrow-with-scribble-svgrepo-com.svg" alt="arrow down" />
+
           {/* <AppStoreButton dark /> */}
           <PWAButton dark />
           {/* <PlayStoreButton dark /> */}
@@ -66,9 +71,9 @@ const Hero: React.FC = () => {
           alt="scufflr app mockup"
           className="relative mt-12 md:mt-16 mx-auto z-10"
         /> */}
-        <div className="w-full flex flex-col justify-center items-center my-20">
+        <div className="relative my-20 flex w-full flex-col items-center justify-center">
           <TinderCardCustom users={users} />
-          <p className="z-10 italic text-sm">*Demo of the real app</p>
+          <p className="z-10 text-sm italic">*Demo of the real app</p>
         </div>
         
       </div>

@@ -19,9 +19,9 @@ const Header: React.FC = () => {
   };
 
   return (
-    <header className="bg-transparent fixed top-0 left-0 right-0 md:absolute z-50 mx-auto w-full">
+    <header className="fixed inset-x-0 top-0 z-50 mx-auto w-full bg-transparent md:absolute">
       <Container className="!px-0">
-        <nav className="shadow-md md:shadow-none bg-white md:bg-transparent mx-auto flex justify-between items-center py-2 px-5 md:py-10">
+        <nav className="mx-auto flex items-center justify-between bg-white px-5 py-2 shadow-md md:bg-transparent md:py-10 md:shadow-none">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <Image
@@ -29,20 +29,20 @@ const Header: React.FC = () => {
               width={28}
               height={28}
               src={siteDetails.siteLogo}
-              className="text-foreground min-w-fit w-7 h-7 saturate-0"
+              className="text-foreground size-7 min-w-fit saturate-0"
             />
-            <span className="manrope text-xl font-semibold text-foreground cursor-pointer">
+            <span className="manrope text-foreground cursor-pointer text-xl font-semibold">
               {siteDetails.siteName}
             </span>
           </Link>
 
           {/* Desktop Menu */}
-          <ul className="hidden md:flex space-x-6">
+          <ul className="hidden space-x-6 md:flex">
             {menuItems.map((item) => (
               <li key={item.text}>
                 <Link
                   href={item.url}
-                  className="relative text-black hover:text-slate-600 transition-colors after:content-[''] after:absolute after:left-0 after:bottom-0 after:rounded-full after:h-[2px] after:w-0 after:bg-slate-600 after:transition-all after:duration-500 hover:after:w-full"
+                  className="relative text-black transition-colors after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-0 after:rounded-full after:bg-slate-600 after:transition-all after:duration-500 after:content-[''] hover:text-slate-600 hover:after:w-full"
                 >
                   {item.text}
                 </Link>
@@ -61,18 +61,18 @@ const Header: React.FC = () => {
           </ul>
 
           {/* Mobile Menu Button */}
-          <div className="md:hidden flex items-center">
+          <div className="flex items-center md:hidden">
             <button
               onClick={toggleMenu}
               type="button"
-              className="bg-primary text-white focus:outline-none rounded-full w-10 h-10 flex items-center justify-center"
+              className="flex size-10 items-center justify-center rounded-full text-white focus:outline-none"
               aria-controls="mobile-menu"
               aria-expanded={isOpen}
             >
               {isOpen ? (
-                <HiOutlineXMark className="h-6 w-6" aria-hidden="true" />
+                <HiOutlineXMark className="size-6" color="black" aria-hidden="true" />
               ) : (
-                <HiBars3 className="h-6 w-6" aria-hidden="true" />
+                <HiBars3 className="size-6" color="black" aria-hidden="true" />
               )}
               <span className="sr-only">Toggle navigation</span>
             </button>
@@ -90,8 +90,8 @@ const Header: React.FC = () => {
         leaveFrom="opacity-100 scale-100"
         leaveTo="opacity-0 scale-95"
       >
-        <div id="mobile-menu" className="md:hidden bg-white shadow-lg">
-          <ul className="flex flex-col space-y-4 pt-1 pb-6 px-6">
+        <div id="mobile-menu" className="bg-white shadow-lg md:hidden">
+          <ul className="flex flex-col space-y-4 px-6 pb-6 pt-1">
             {menuItems.map((item) => (
               <li key={item.text}>
                 <Link
@@ -106,7 +106,7 @@ const Header: React.FC = () => {
             <li>
               <Link
                 href="#cta"
-                className="text-black bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit"
+                className="bg-primary hover:bg-primary-accent block w-fit rounded-full px-5 py-2 text-black"
                 onClick={toggleMenu}
               >
                 Find a sparring partner
