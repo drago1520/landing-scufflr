@@ -1,5 +1,3 @@
-/* eslint-disable tailwindcss/no-contradicting-classname */
-/* eslint-disable tailwindcss/no-custom-classname */
 import React from "react";
 // import Image from "next/image";
 
