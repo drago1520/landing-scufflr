@@ -26,8 +26,8 @@ export const benefits: IBenefit[] = [
       {
         title: "Safety out-of-the-box",
         description:
-          "Our team fights with every new user to ensure a safe community for you.",
-        icon: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359178921000653" target="_blank" rel="nofollow" > <FiBarChart2 size={26} /></a>,
+          "Our AI powered matchmaking platforms detects suspicious profiles and removes them before something bad happens.",
+        icon: <a href="https://www.scieOur team fightncedirect.com/science/article/abs/pii/S1359178921000653" target="_blank" rel="nofollow" > <FiBarChart2 size={26} /></a>,
       },
       {
         title: "Become THE Martial Artist",
