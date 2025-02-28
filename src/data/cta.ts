@@ -4,5 +4,5 @@ export const ctaDetails = {
     "Your journey to healthy living starts here. Download Scufflr today and take the first step towards a healthy lifestyle!",
   appStoreUrl: "#",
   googlePlayUrl: "#",
-  pwaUrl: "https://app.scufflr.com/",
+  pwaUrl: "https://app.scufflr.com/home",
 };
