@@ -24,8 +24,14 @@ const Footer: React.FC = () => {
               {siteDetails.siteName}
             </h3>
           </Link>
-          <p className="mt-3.5 text-foreground-accent">
+          <p className="mt-3.5">
             {footerDetails.subheading}
+          </p>
+          <p className="text-foreground-accent mt-4">
+            <a href="https://www.scufflr.com/terms">Terms & Conditions</a>
+          </p>
+          <p className="text-foreground-accent">
+            <a href="https://www.scufflr.com/privacy-policy">Privacy Policy</a>
           </p>
         </div>
         <div>
