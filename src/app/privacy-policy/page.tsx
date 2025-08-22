@@ -23,11 +23,11 @@ export default function page() {
               <strong>
                 <span style={{ fontSize: 26 }}>
                   <span data-custom-class="title">
-                    <bdt className="block-component" />
-                    <bdt className="question">
+                    <p className="block-component" />
+                    <p className="question">
                       <h1>PRIVACY POLICY</h1>
-                    </bdt>
-                    <bdt className="statement-end-if-in-editor" />
+                    </p>
+                    <p className="statement-end-if-in-editor" />
                   </span>
                 </span>
               </strong>
@@ -38,7 +38,7 @@ export default function page() {
                   <span style={{ fontSize: 15 }}>
                     <span data-custom-class="subtitle">
                       Last updated{" "}
-                      <bdt className="question">February 28, 2025</bdt>
+                      <p className="question">February 28, 2025</p>
                     </span>
                   </span>
                 </strong>
@@ -58,23 +58,23 @@ export default function page() {
                 <span style={{ color: "rgb(89, 89, 89)", fontSize: 15 }}>
                   <span data-custom-class="body_text">
                     This Privacy Notice for{" "}
-                    <bdt className="question">
+                    <p className="question">
                       Scufflr
-                      <bdt className="block-component" />
-                    </bdt>{" "}
-                    (<bdt className="block-component" />"<strong>we</strong>," "
+                      <p className="block-component" />
+                    </p>{" "}
+                    (<p className="block-component" />"<strong>we</strong>," "
                     <strong>us</strong>," or "<strong>our</strong>"
-                    <bdt className="statement-end-if-in-editor" />
+                    <p className="statement-end-if-in-editor" />
                   </span>
                   <span data-custom-class="body_text">
                     ), describes how and why we might access, collect, store,
-                    use, and/or share (<bdt className="block-component" />"
+                    use, and/or share (<p className="block-component" />"
                     <strong>process</strong>"
-                    <bdt className="statement-end-if-in-editor" />) your
+                    <p className="statement-end-if-in-editor" />) your
                     personal information when you use our services (
-                    <bdt className="block-component" />"
+                    <p className="block-component" />"
                     <strong>Services</strong>"
-                    <bdt className="statement-end-if-in-editor" />
+                    <p className="statement-end-if-in-editor" />
                     ), including when you:
                   </span>
                 </span>
@@ -84,7 +84,7 @@ export default function page() {
                   <span data-custom-class="body_text">
                     <span style={{ color: "rgb(89, 89, 89)" }}>
                       <span data-custom-class="body_text">
-                        <bdt className="block-component" />
+                        <p className="block-component" />
                       </span>
                     </span>
                   </span>
@@ -97,19 +97,19 @@ export default function page() {
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span data-custom-class="body_text">
                       Visit our website
-                      <bdt className="block-component" /> at{" "}
+                      <p className="block-component" /> at{" "}
                       <span style={{ color: "rgb(0, 58, 250)" }}>
-                        <bdt className="question">scufflr.com</bdt>
+                        <p className="question">scufflr.com</p>
                       </span>
                       <span style={{ fontSize: 15 }}>
                         <span style={{ color: "rgb(89, 89, 89)" }}>
                           <span data-custom-class="body_text">
                             <span style={{ fontSize: 15 }}>
                               <span style={{ color: "rgb(89, 89, 89)" }}>
-                                <bdt className="statement-end-if-in-editor">
+                                <p className="statement-end-if-in-editor">
                                   , or any website of ours that links to this
                                   Privacy Notice
-                                </bdt>
+                                </p>
                               </span>
                             </span>
                           </span>
@@ -121,38 +121,38 @@ export default function page() {
               </li>
             </ul>
             <div>
-              <bdt className="block-component">
+              <p className="block-component">
                 <span style={{ fontSize: 15 }}>
                   <span style={{ fontSize: 15 }}>
                     <span style={{ color: "rgb(127, 127, 127)" }}>
                       <span data-custom-class="body_text">
                         <span style={{ color: "rgb(89, 89, 89)" }}>
                           <span data-custom-class="body_text">
-                            <bdt className="block-component" />
+                            <p className="block-component" />
                           </span>
                         </span>
                       </span>
                     </span>
                   </span>
                 </span>
-              </bdt>
+              </p>
               <div style={{ lineHeight: "1.5" }}>
-                <bdt className="block-component">
+                <p className="block-component">
                   <span style={{ fontSize: 15 }} />
-                </bdt>
+                </p>
               </div>
               <ul>
                 <li data-custom-class="body_text" style={{ lineHeight: "1.5" }}>
                   <span style={{ fontSize: 15 }}>
-                    Use <bdt className="question">Scufflr</bdt>.{" "}
-                    <bdt className="question">
+                    Use <p className="question">Scufflr</p>.{" "}
+                    <p className="question">
                       Sparring partner matching platform for 18+ years old
                       martial artists.
-                    </bdt>
+                    </p>
                   </span>
-                  <bdt className="statement-end-if-in-editor">
+                  <p className="statement-end-if-in-editor">
                     <span style={{ fontSize: 15 }} />
-                  </bdt>
+                  </p>
                 </li>
               </ul>
               <div style={{ lineHeight: "1.5" }}>
@@ -161,7 +161,7 @@ export default function page() {
                     <span data-custom-class="body_text">
                       <span style={{ color: "rgb(89, 89, 89)" }}>
                         <span data-custom-class="body_text">
-                          <bdt className="block-component" />
+                          <p className="block-component" />
                         </span>
                       </span>
                     </span>
@@ -180,7 +180,7 @@ export default function page() {
                             <span data-custom-class="body_text">
                               <span style={{ fontSize: 15 }}>
                                 <span style={{ color: "rgb(89, 89, 89)" }}>
-                                  <bdt className="statement-end-if-in-editor" />
+                                  <p className="statement-end-if-in-editor" />
                                 </span>
                               </span>
                             </span>
@@ -201,9 +201,9 @@ export default function page() {
                       decisions about how your personal information is
                       processed. If you do not agree with our policies and
                       practices, please do not use our Services.
-                      <bdt className="block-component" /> If you still have any
+                      <p className="block-component" /> If you still have any
                       questions or concerns, please contact us at{" "}
-                      <bdt className="question">office@scufflr.com</bdt>.
+                      <p className="question">office@scufflr.com</p>.
                     </span>
                   </span>
                 </span>
@@ -287,12 +287,12 @@ export default function page() {
                       Do we process any sensitive personal information?&nbsp;
                     </strong>
                     Some of the information may be considered{" "}
-                    <bdt className="block-component" />
+                    <p className="block-component" />
                     "special" or "sensitive"
-                    <bdt className="statement-end-if-in-editor" /> in certain
+                    <p className="statement-end-if-in-editor" /> in certain
                     jurisdictions, for example your racial or ethnic origins,
                     sexual orientation, and religious beliefs.{" "}
-                    <bdt className="block-component" />
+                    <p className="block-component" />
                     We may process sensitive personal information when necessary
                     with your consent or as otherwise permitted by applicable
                     law. Learn more about&nbsp;
@@ -308,7 +308,7 @@ export default function page() {
                 <span data-custom-class="body_text">.</span>
                 <span style={{ fontSize: 15 }}>
                   <span data-custom-class="body_text">
-                    <bdt className="statement-end-if-in-editor" />
+                    <p className="statement-end-if-in-editor" />
                   </span>
                 </span>
               </div>
@@ -321,7 +321,7 @@ export default function page() {
                     <strong>
                       Do we collect any information from third parties?
                     </strong>{" "}
-                    <bdt className="block-component" />
+                    <p className="block-component" />
                     We may collect information from public databases, marketing
                     partners, social media platforms, and other outside sources.
                     Learn more about&nbsp;
@@ -337,7 +337,7 @@ export default function page() {
                 <span data-custom-class="body_text">.</span>
                 <span style={{ fontSize: 15 }}>
                   <span data-custom-class="body_text">
-                    <bdt className="statement-end-if-in-editor" />
+                    <p className="statement-end-if-in-editor" />
                   </span>
                 </span>
               </div>
@@ -373,11 +373,11 @@ export default function page() {
                   <span data-custom-class="body_text">
                     <strong>
                       In what situations and with which{" "}
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                       parties do we share personal information?
                     </strong>{" "}
                     We may share information in specific situations and with
-                    specific <bdt className="block-component" />
+                    specific <p className="block-component" />
                     third parties. Learn more about&nbsp;
                   </span>
                 </span>
@@ -390,7 +390,7 @@ export default function page() {
                 </a>
                 <span style={{ fontSize: 15 }}>
                   <span data-custom-class="body_text">
-                    .<bdt className="block-component" />
+                    .<p className="block-component" />
                   </span>
                 </span>
               </div>
@@ -401,17 +401,17 @@ export default function page() {
                 <span style={{ fontSize: 15 }}>
                   <span data-custom-class="body_text">
                     <strong>How do we keep your information safe?</strong> We
-                    have adequate <bdt className="block-component" />
+                    have adequate <p className="block-component" />
                     organizational
-                    <bdt className="statement-end-if-in-editor" /> and technical
+                    <p className="statement-end-if-in-editor" /> and technical
                     processes and procedures in place to protect your personal
                     information. However, no electronic transmission over the
                     internet or information storage technology can be guaranteed
                     to be 100% secure, so we cannot promise or guarantee that
                     hackers, cybercriminals, or other{" "}
-                    <bdt className="block-component" />
+                    <p className="block-component" />
                     unauthorized
-                    <bdt className="statement-end-if-in-editor" /> third parties
+                    <p className="statement-end-if-in-editor" /> third parties
                     will not be able to defeat our security and improperly
                     collect, access, steal, or modify your information. Learn
                     more about&nbsp;
@@ -427,7 +427,7 @@ export default function page() {
                 <span data-custom-class="body_text">.</span>
                 <span style={{ fontSize: 15 }}>
                   <span data-custom-class="body_text">
-                    <bdt className="statement-end-if-in-editor" />
+                    <p className="statement-end-if-in-editor" />
                   </span>
                 </span>
               </div>
@@ -460,7 +460,7 @@ export default function page() {
                   <span data-custom-class="body_text">
                     <strong>How do you exercise your rights?</strong> The
                     easiest way to exercise your rights is by{" "}
-                    <bdt className="block-component">submitting a&nbsp;</bdt>
+                    <p className="block-component">submitting a&nbsp;</p>
                   </span>
                 </span>
                 <a
@@ -477,7 +477,7 @@ export default function page() {
                 </a>
                 <span style={{ fontSize: 15 }}>
                   <span data-custom-class="body_text">
-                    <bdt className="block-component" />, or by contacting us. We
+                    <p className="block-component" />, or by contacting us. We
                     will consider and act upon any request in accordance with
                     applicable data protection laws.
                   </span>
@@ -537,7 +537,7 @@ export default function page() {
                   <a data-custom-class="link" href="#infouse">
                     <span style={{ color: "rgb(0, 58, 250)" }}>
                       2. HOW DO WE PROCESS YOUR INFORMATION?
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                     </span>
                   </a>
                 </span>
@@ -553,7 +553,7 @@ export default function page() {
                           PERSONAL INFORMATION?
                         </span>
                       </span>
-                      <bdt className="statement-end-if-in-editor" />
+                      <p className="statement-end-if-in-editor" />
                     </span>
                   </a>
                 </span>
@@ -567,12 +567,12 @@ export default function page() {
                     </a>
                   </span>
                   <span data-custom-class="body_text">
-                    <bdt className="block-component" />
+                    <p className="block-component" />
                     <span style={{ color: "rgb(127, 127, 127)" }}>
                       <span style={{ color: "rgb(89, 89, 89)" }}>
                         <span data-custom-class="body_text">
                           <span style={{ color: "rgb(89, 89, 89)" }}>
-                            <bdt className="block-component" />
+                            <p className="block-component" />
                           </span>
                         </span>
                       </span>
@@ -591,12 +591,12 @@ export default function page() {
                     <span style={{ color: "rgb(89, 89, 89)" }}>
                       <span data-custom-class="body_text">
                         <span style={{ color: "rgb(89, 89, 89)" }}>
-                          <bdt className="statement-end-if-in-editor" />
+                          <p className="statement-end-if-in-editor" />
                         </span>
                       </span>
                     </span>
                   </span>
-                  <bdt className="block-component" />
+                  <p className="block-component" />
                 </span>
               </div>
               <div style={{ lineHeight: "1.5" }}>
@@ -606,7 +606,7 @@ export default function page() {
                   </span>
                 </a>
                 <span style={{ fontSize: 15 }}>
-                  <bdt className="statement-end-if-in-editor" />
+                  <p className="statement-end-if-in-editor" />
                 </span>
               </div>
               <div style={{ lineHeight: "1.5" }}>
@@ -617,7 +617,7 @@ export default function page() {
                         <span style={{ color: "rgb(89, 89, 89)" }}>
                           <span style={{ color: "rgb(89, 89, 89)" }}>
                             <span style={{ color: "rgb(89, 89, 89)" }}>
-                              <bdt className="block-component" />
+                              <p className="block-component" />
                             </span>
                           </span>
                         </span>
@@ -643,10 +643,10 @@ export default function page() {
                         <span style={{ color: "rgb(89, 89, 89)" }}>
                           <span style={{ color: "rgb(89, 89, 89)" }}>
                             <span style={{ color: "rgb(89, 89, 89)" }}>
-                              <bdt className="statement-end-if-in-editor" />
+                              <p className="statement-end-if-in-editor" />
                             </span>
                           </span>
-                          <bdt className="block-component" />
+                          <p className="block-component" />
                         </span>
                       </span>
                     </span>
@@ -665,7 +665,7 @@ export default function page() {
                       <span data-custom-class="body_text">
                         <span style={{ color: "rgb(89, 89, 89)" }}>
                           <span style={{ color: "rgb(89, 89, 89)" }}>
-                            <bdt className="block-component" />
+                            <p className="block-component" />
                           </span>
                         </span>
                       </span>
@@ -684,8 +684,8 @@ export default function page() {
                     <span style={{ color: "rgb(89, 89, 89)" }}>
                       <span data-custom-class="body_text">
                         <span style={{ color: "rgb(89, 89, 89)" }}>
-                          <bdt className="statement-end-if-in-editor" />
-                          <bdt className="block-component" />
+                          <p className="statement-end-if-in-editor" />
+                          <p className="block-component" />
                         </span>
                       </span>
                     </span>
@@ -703,7 +703,7 @@ export default function page() {
                     <span style={{ color: "rgb(89, 89, 89)" }}>
                       <span data-custom-class="body_text">
                         <span style={{ color: "rgb(89, 89, 89)" }}>
-                          <bdt className="statement-end-if-in-editor" />
+                          <p className="statement-end-if-in-editor" />
                         </span>
                       </span>
                     </span>
@@ -724,7 +724,7 @@ export default function page() {
                   <a data-custom-class="link" href="#DNT">
                     <span style={{ color: "rgb(0, 58, 250)" }}>
                       12. CONTROLS FOR DO-NOT-TRACK FEATURES
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                     </span>
                   </a>
                 </span>
@@ -738,11 +738,11 @@ export default function page() {
                     </span>
                   </a>
                 </span>
-                <bdt className="block-component">
+                <p className="block-component">
                   <span style={{ fontSize: 15 }}>
                     <span data-custom-class="body_text" />
                   </span>
-                </bdt>
+                </p>
               </div>
               <div style={{ lineHeight: "1.5" }}>
                 <a data-custom-class="link" href="#otherlaws">
@@ -751,24 +751,24 @@ export default function page() {
                   </span>
                 </a>
                 <span style={{ fontSize: 15 }}>
-                  <bdt className="statement-end-if-in-editor">
+                  <p className="statement-end-if-in-editor">
                     <span data-custom-class="body_text" />
-                  </bdt>
+                  </p>
                 </span>
               </div>
               <div style={{ lineHeight: "1.5" }}>
-                <bdt className="block-component">
+                <p className="block-component">
                   <span style={{ fontSize: 15 }} />
-                </bdt>
-                <bdt className="block-component" />
-                <bdt className="block-component" />
-                <bdt className="block-component" />
-                <bdt className="block-component" />
-                <bdt className="block-component" />
-                <bdt className="block-component" />
-                <bdt className="block-component" />
-                <bdt className="block-component" />
-                <bdt className="block-component" />
+                </p>
+                <p className="block-component" />
+                <p className="block-component" />
+                <p className="block-component" />
+                <p className="block-component" />
+                <p className="block-component" />
+                <p className="block-component" />
+                <p className="block-component" />
+                <p className="block-component" />
+                <p className="block-component" />
               </div>
               <div style={{ lineHeight: "1.5" }}>
                 <span style={{ fontSize: 15 }}>
@@ -872,14 +872,14 @@ export default function page() {
                       We collect personal information that you voluntarily
                       provide to us when you{" "}
                       <span style={{ fontSize: 15 }}>
-                        <bdt className="block-component" />
+                        <p className="block-component" />
                       </span>
                       register on the Services,&nbsp;
                     </span>
                     <span style={{ fontSize: 15 }}>
                       <span data-custom-class="body_text">
                         <span style={{ fontSize: 15 }}>
-                          <bdt className="statement-end-if-in-editor" />
+                          <p className="statement-end-if-in-editor" />
                         </span>
                       </span>
                       <span data-custom-class="body_text">
@@ -900,7 +900,7 @@ export default function page() {
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span data-custom-class="body_text">
                       <span style={{ fontSize: 15 }}>
-                        <bdt className="block-component" />
+                        <p className="block-component" />
                       </span>
                     </span>
                   </span>
@@ -918,7 +918,7 @@ export default function page() {
                       following:
                       <span style={{ fontSize: 15 }}>
                         <span data-custom-class="body_text">
-                          <bdt className="forloop-component" />
+                          <p className="forloop-component" />
                         </span>
                       </span>
                     </span>
@@ -932,7 +932,7 @@ export default function page() {
                       <span data-custom-class="body_text">
                         <span style={{ fontSize: 15 }}>
                           <span data-custom-class="body_text">
-                            <bdt className="question">names</bdt>
+                            <p className="question">names</p>
                           </span>
                         </span>
                       </span>
@@ -946,7 +946,7 @@ export default function page() {
                     <span data-custom-class="body_text">
                       <span style={{ fontSize: 15 }}>
                         <span data-custom-class="body_text">
-                          <bdt className="forloop-component" />
+                          <p className="forloop-component" />
                         </span>
                       </span>
                     </span>
@@ -960,7 +960,7 @@ export default function page() {
                       <span data-custom-class="body_text">
                         <span style={{ fontSize: 15 }}>
                           <span data-custom-class="body_text">
-                            <bdt className="question">email addresses</bdt>
+                            <p className="question">email addresses</p>
                           </span>
                         </span>
                       </span>
@@ -974,7 +974,7 @@ export default function page() {
                     <span data-custom-class="body_text">
                       <span style={{ fontSize: 15 }}>
                         <span data-custom-class="body_text">
-                          <bdt className="forloop-component" />
+                          <p className="forloop-component" />
                         </span>
                       </span>
                     </span>
@@ -988,7 +988,7 @@ export default function page() {
                       <span data-custom-class="body_text">
                         <span style={{ fontSize: 15 }}>
                           <span data-custom-class="body_text">
-                            <bdt className="question">usernames</bdt>
+                            <p className="question">usernames</p>
                           </span>
                         </span>
                       </span>
@@ -1002,7 +1002,7 @@ export default function page() {
                     <span data-custom-class="body_text">
                       <span style={{ fontSize: 15 }}>
                         <span data-custom-class="body_text">
-                          <bdt className="forloop-component" />
+                          <p className="forloop-component" />
                         </span>
                       </span>
                     </span>
@@ -1016,7 +1016,7 @@ export default function page() {
                       <span data-custom-class="body_text">
                         <span style={{ fontSize: 15 }}>
                           <span data-custom-class="body_text">
-                            <bdt className="question">passwords</bdt>
+                            <p className="question">passwords</p>
                           </span>
                         </span>
                       </span>
@@ -1030,7 +1030,7 @@ export default function page() {
                     <span data-custom-class="body_text">
                       <span style={{ fontSize: 15 }}>
                         <span data-custom-class="body_text">
-                          <bdt className="forloop-component" />
+                          <p className="forloop-component" />
                         </span>
                       </span>
                     </span>
@@ -1044,9 +1044,9 @@ export default function page() {
                       <span data-custom-class="body_text">
                         <span style={{ fontSize: 15 }}>
                           <span data-custom-class="body_text">
-                            <bdt className="question">
+                            <p className="question">
                               martial art preferences
-                            </bdt>
+                            </p>
                           </span>
                         </span>
                       </span>
@@ -1060,7 +1060,7 @@ export default function page() {
                     <span data-custom-class="body_text">
                       <span style={{ fontSize: 15 }}>
                         <span data-custom-class="body_text">
-                          <bdt className="forloop-component" />
+                          <p className="forloop-component" />
                         </span>
                       </span>
                     </span>
@@ -1074,7 +1074,7 @@ export default function page() {
                       <span data-custom-class="body_text">
                         <span style={{ fontSize: 15 }}>
                           <span data-custom-class="body_text">
-                            <bdt className="question">height, weight</bdt>
+                            <p className="question">height, weight</p>
                           </span>
                         </span>
                       </span>
@@ -1088,10 +1088,10 @@ export default function page() {
                     <span data-custom-class="body_text">
                       <span style={{ fontSize: 15 }}>
                         <span data-custom-class="body_text">
-                          <bdt className="forloop-component" />
+                          <p className="forloop-component" />
                         </span>
                         <span data-custom-class="body_text">
-                          <bdt className="statement-end-if-in-editor" />
+                          <p className="statement-end-if-in-editor" />
                         </span>
                       </span>
                     </span>
@@ -1102,11 +1102,11 @@ export default function page() {
                 <span style={{ fontSize: 15 }}>
                   <span data-custom-class="body_text">
                     <strong>Sensitive Information.</strong>{" "}
-                    <bdt className="block-component" />
+                    <p className="block-component" />
                     When necessary, with your consent or as otherwise permitted
                     by applicable law, we process the following categories of
                     sensitive information:
-                    <bdt className="forloop-component" />
+                    <p className="forloop-component" />
                   </span>
                 </span>
               </div>
@@ -1114,7 +1114,7 @@ export default function page() {
                 <li data-custom-class="body_text" style={{ lineHeight: "1.5" }}>
                   <span style={{ fontSize: 15 }}>
                     <span data-custom-class="body_text">
-                      <bdt className="question">biometric data</bdt>
+                      <p className="question">biometric data</p>
                     </span>
                   </span>
                 </li>
@@ -1122,10 +1122,10 @@ export default function page() {
               <div>
                 <span style={{ fontSize: 15 }}>
                   <span data-custom-class="body_text">
-                    <bdt className="forloop-component" />
+                    <p className="forloop-component" />
                   </span>
                   <span data-custom-class="body_text">
-                    <bdt className="statement-end-if-in-editor" />
+                    <p className="statement-end-if-in-editor" />
                   </span>
                 </span>
                 <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
@@ -1133,9 +1133,9 @@ export default function page() {
                     <span data-custom-class="body_text">
                       <span style={{ fontSize: 15 }}>
                         <span data-custom-class="body_text">
-                          <bdt className="block-component">
-                            <bdt className="block-component" />
-                          </bdt>
+                          <p className="block-component">
+                            <p className="block-component" />
+                          </p>
                         </span>
                       </span>
                     </span>
@@ -1153,8 +1153,8 @@ export default function page() {
                       register in this way, we will collect certain profile
                       information about you from the social media provider, as
                       described in the section called{" "}
-                      <bdt className="block-component" />"
-                      <bdt className="statement-end-if-in-editor" />
+                      <p className="block-component" />"
+                      <p className="statement-end-if-in-editor" />
                       <span style={{ fontSize: 15 }}>
                         <span data-custom-class="body_text">
                           <span style={{ fontSize: 15 }}>
@@ -1166,8 +1166,8 @@ export default function page() {
                           </span>
                         </span>
                       </span>
-                      <bdt className="block-component" />"
-                      <bdt className="statement-end-if-in-editor" /> below.
+                      <p className="block-component" />"
+                      <p className="statement-end-if-in-editor" /> below.
                     </span>
                   </span>
                 </span>
@@ -1180,14 +1180,14 @@ export default function page() {
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span data-custom-class="body_text">
                       <span style={{ fontSize: 15 }}>
-                        <bdt className="statement-end-if-in-editor">
-                          <bdt className="statement-end-if-in-editor" />
-                        </bdt>
+                        <p className="statement-end-if-in-editor">
+                          <p className="statement-end-if-in-editor" />
+                        </p>
                       </span>
                     </span>
                   </span>
                 </span>
-                <bdt className="block-component" />
+                <p className="block-component" />
               </div>
               <div style={{ lineHeight: "1.5" }}>
                 <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
@@ -1204,7 +1204,7 @@ export default function page() {
                 <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span data-custom-class="body_text">
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                     </span>
                   </span>
                 </span>
@@ -1285,7 +1285,7 @@ export default function page() {
                 <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span data-custom-class="body_text">
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                     </span>
                   </span>
                 </span>
@@ -1296,8 +1296,8 @@ export default function page() {
                     <span data-custom-class="body_text">
                       Like many businesses, we also collect information through
                       cookies and similar technologies.{" "}
-                      <bdt className="block-component" />
-                      <bdt className="block-component" />
+                      <p className="block-component" />
+                      <p className="block-component" />
                     </span>
                   </span>
                 </span>
@@ -1309,12 +1309,12 @@ export default function page() {
                 <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span data-custom-class="body_text">
-                      <bdt className="statement-end-if-in-editor">
+                      <p className="statement-end-if-in-editor">
                         <span data-custom-class="body_text" />
-                      </bdt>
+                      </p>
                     </span>
                     <span data-custom-class="body_text">
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                     </span>
                   </span>
                 </span>
@@ -1324,7 +1324,7 @@ export default function page() {
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span data-custom-class="body_text">
                       The information we collect includes:
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                     </span>
                   </span>
                 </span>
@@ -1347,16 +1347,16 @@ export default function page() {
                         files viewed, searches, and other actions you take such
                         as which features you use), device event information
                         (such as system activity, error reports (sometimes
-                        called <bdt className="block-component" />
+                        called <p className="block-component" />
                         "crash dumps"
-                        <bdt className="statement-end-if-in-editor" />
+                        <p className="statement-end-if-in-editor" />
                         ), and hardware settings).
                         <span style={{ fontSize: 15 }}>
                           <span style={{ color: "rgb(89, 89, 89)" }}>
                             <span data-custom-class="body_text">
                               <span style={{ fontSize: 15 }}>
                                 <span style={{ color: "rgb(89, 89, 89)" }}>
-                                  <bdt className="statement-end-if-in-editor" />
+                                  <p className="statement-end-if-in-editor" />
                                 </span>
                               </span>
                             </span>
@@ -1368,11 +1368,11 @@ export default function page() {
                 </li>
               </ul>
               <div style={{ lineHeight: "1.5" }}>
-                <bdt className="block-component">
+                <p className="block-component">
                   <span style={{ fontSize: 15 }}>
                     <span data-custom-class="body_text" />
                   </span>
-                </bdt>
+                </p>
               </div>
               <ul>
                 <li data-custom-class="body_text" style={{ lineHeight: "1.5" }}>
@@ -1393,7 +1393,7 @@ export default function page() {
                             <span data-custom-class="body_text">
                               <span style={{ fontSize: 15 }}>
                                 <span style={{ color: "rgb(89, 89, 89)" }}>
-                                  <bdt className="statement-end-if-in-editor" />
+                                  <p className="statement-end-if-in-editor" />
                                 </span>
                               </span>
                             </span>
@@ -1405,11 +1405,11 @@ export default function page() {
                 </li>
               </ul>
               <div style={{ lineHeight: "1.5" }}>
-                <bdt className="block-component">
+                <p className="block-component">
                   <span style={{ fontSize: 15 }}>
                     <span data-custom-class="body_text" />
                   </span>
-                </bdt>
+                </p>
               </div>
               <ul>
                 <li data-custom-class="body_text" style={{ lineHeight: "1.5" }}>
@@ -1433,7 +1433,7 @@ export default function page() {
                             <span data-custom-class="body_text">
                               <span style={{ fontSize: 15 }}>
                                 <span style={{ color: "rgb(89, 89, 89)" }}>
-                                  <bdt className="statement-end-if-in-editor" />
+                                  <p className="statement-end-if-in-editor" />
                                 </span>
                               </span>
                             </span>
@@ -1445,13 +1445,13 @@ export default function page() {
                 </li>
               </ul>
               <div>
-                <bdt className="block-component">
+                <p className="block-component">
                   <span style={{ fontSize: 15 }} />
-                </bdt>
-                <bdt className="statement-end-if-in-editor" />
-                <bdt className="block-component">
+                </p>
+                <p className="statement-end-if-in-editor" />
+                <p className="block-component">
                   <span style={{ fontSize: 15 }} />
-                </bdt>
+                </p>
               </div>
               <div style={{ lineHeight: "1.5" }}>
                 <span style={{ fontSize: 15 }}>
@@ -1505,9 +1505,9 @@ export default function page() {
                 </span>
               </div>
               <div style={{ lineHeight: "1.5" }}>
-                <bdt className="statement-end-if-in-editor">
+                <p className="statement-end-if-in-editor">
                   <span style={{ fontSize: 15 }} />
-                </bdt>
+                </p>
                 <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span data-custom-class="body_text">
@@ -1517,9 +1517,9 @@ export default function page() {
                             style={{ color: "rgb(89, 89, 89)", fontSize: 15 }}
                           >
                             <span data-custom-class="body_text">
-                              <bdt className="statement-end-if-in-editor">
-                                <bdt className="block-component" />
-                              </bdt>
+                              <p className="statement-end-if-in-editor">
+                                <p className="block-component" />
+                              </p>
                             </span>
                           </span>
                         </span>
@@ -1556,9 +1556,9 @@ export default function page() {
                                 <span style={{ fontSize: 15 }}>
                                   <em>
                                     <span data-custom-class="body_text">
-                                      <bdt className="block-component" />
+                                      <p className="block-component" />
                                       social media platforms,{" "}
-                                      <bdt className="statement-end-if-in-editor" />
+                                      <p className="statement-end-if-in-editor" />
                                     </span>
                                   </em>
                                 </span>
@@ -1587,9 +1587,9 @@ export default function page() {
                       <span style={{ color: "rgb(89, 89, 89)" }}>
                         <span style={{ fontSize: 15 }}>
                           <span data-custom-class="body_text">
-                            <bdt className="block-component" /> social media
+                            <p className="block-component" /> social media
                             platforms,
-                            <bdt className="statement-end-if-in-editor" />
+                            <p className="statement-end-if-in-editor" />
                           </span>
                         </span>
                         &nbsp;
@@ -1597,9 +1597,9 @@ export default function page() {
                       and from other third parties. This information includes
                       mailing addresses, job titles, email addresses, phone
                       numbers, intent data (or user{" "}
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                       behavior
-                      <bdt className="statement-end-if-in-editor" /> data),
+                      <p className="statement-end-if-in-editor" /> data),
                       Internet Protocol (IP) addresses, social media profiles,
                       social media URLs, and custom profiles, for purposes of
                       targeted advertising and event promotion.
@@ -1609,7 +1609,7 @@ export default function page() {
                             <span style={{ color: "rgb(89, 89, 89)" }}>
                               <span style={{ fontSize: 15 }}>
                                 <span data-custom-class="body_text">
-                                  <bdt className="block-component" />
+                                  <p className="block-component" />
                                 </span>
                               </span>
                             </span>
@@ -1632,8 +1632,8 @@ export default function page() {
                           <span data-custom-class="body_text">
                             If you interact with us on a social media platform
                             using your social media account (e.g.
-                            <bdt className="block-component" />,
-                            <bdt className="statement-end-if-in-editor" />{" "}
+                            <p className="block-component" />,
+                            <p className="statement-end-if-in-editor" />{" "}
                             Facebook or X), we receive personal information
                             about you from such platforms such as your name,
                             email address, and gender. You may have the right to
@@ -1685,7 +1685,7 @@ export default function page() {
                                   <span style={{ color: "rgb(89, 89, 89)" }}>
                                     <span style={{ fontSize: 15 }}>
                                       <span data-custom-class="body_text">
-                                        <bdt className="statement-end-if-in-editor" />
+                                        <p className="statement-end-if-in-editor" />
                                       </span>
                                     </span>
                                   </span>
@@ -1704,7 +1704,7 @@ export default function page() {
                           <span data-custom-class="body_text">
                             <span style={{ color: "rgb(89, 89, 89)" }}>
                               <span style={{ color: "rgb(89, 89, 89)" }}>
-                                <bdt className="block-component">
+                                <p className="block-component">
                                   <span
                                     style={{
                                       color: "rgb(89, 89, 89)",
@@ -1719,14 +1719,14 @@ export default function page() {
                                         }}
                                       >
                                         <span data-custom-class="body_text">
-                                          <bdt className="statement-end-if-in-editor">
-                                            <bdt className="statement-end-if-in-editor" />
-                                          </bdt>
+                                          <p className="statement-end-if-in-editor">
+                                            <p className="statement-end-if-in-editor" />
+                                          </p>
                                         </span>
                                       </span>
                                     </span>
                                   </span>
-                                </bdt>
+                                </p>
                               </span>
                             </span>
                           </span>
@@ -1737,7 +1737,7 @@ export default function page() {
                 </span>
                 <span style={{ fontSize: 15 }}>
                   <span data-custom-class="body_text">
-                    <bdt className="block-component" />
+                    <p className="block-component" />
                   </span>
                 </span>
               </div>
@@ -1795,7 +1795,7 @@ export default function page() {
                         reasons, depending on how you interact with our
                         Services, including:
                       </strong>
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                     </span>
                   </span>
                 </span>
@@ -1827,7 +1827,7 @@ export default function page() {
                                         style={{ color: "rgb(89, 89, 89)" }}
                                       >
                                         <span data-custom-class="body_text">
-                                          <bdt className="statement-end-if-in-editor" />
+                                          <p className="statement-end-if-in-editor" />
                                         </span>
                                       </span>
                                     </span>
@@ -1846,7 +1846,7 @@ export default function page() {
                 <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span data-custom-class="body_text">
-                      <bdt className="block-component" />
+                      <p className="block-component" />
                     </span>
                   </span>
                 </span>
@@ -1854,7 +1854,7 @@ export default function page() {
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                       <span data-custom-class="body_text">
-                        <bdt className="block-component" />
+                        <p className="block-component" />
                       </span>
                     </span>
                   </span>
@@ -1937,7 +1937,7 @@ export default function page() {
                                                             }}
                                                           >
                                                             <span data-custom-class="body_text">
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </span>
@@ -1965,7 +1965,7 @@ export default function page() {
                   <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                     <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                       <span data-custom-class="body_text">
-                        <bdt className="block-component" />
+                        <p className="block-component" />
                       </span>
                     </span>
                   </span>
@@ -1973,37 +1973,37 @@ export default function page() {
                     <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                       <span style={{ fontSize: 15, color: "rgb(89, 89, 89)" }}>
                         <span data-custom-class="body_text">
-                          <bdt className="block-component" />
+                          <p className="block-component" />
                         </span>
                       </span>
                     </span>
                     <div style={{ lineHeight: "1.5" }}>
-                      <bdt className="block-component">
+                      <p className="block-component">
                         <span style={{ fontSize: 15 }} />
-                      </bdt>
+                      </p>
                       <div style={{ lineHeight: "1.5" }}>
-                        <bdt className="block-component">
+                        <p className="block-component">
                           <span style={{ fontSize: 15 }} />
-                        </bdt>
+                        </p>
                         <div style={{ lineHeight: "1.5" }}>
-                          <bdt className="block-component">
+                          <p className="block-component">
                             <span style={{ fontSize: 15 }} />
-                          </bdt>
+                          </p>
                           <div style={{ lineHeight: "1.5" }}>
-                            <bdt className="block-component">
+                            <p className="block-component">
                               <span style={{ fontSize: 15 }}>
                                 <span data-custom-class="body_text" />
                               </span>
-                            </bdt>
-                            <p style={{ fontSize: 15, lineHeight: "1.5" }}>
-                              <bdt className="block-component">
-                                <span style={{ fontSize: 15 }} />
-                              </bdt>
                             </p>
                             <p style={{ fontSize: 15, lineHeight: "1.5" }}>
-                              <bdt className="block-component">
+                              <p className="block-component">
                                 <span style={{ fontSize: 15 }} />
-                              </bdt>
+                              </p>
+                            </p>
+                            <p style={{ fontSize: 15, lineHeight: "1.5" }}>
+                              <p className="block-component">
+                                <span style={{ fontSize: 15 }} />
+                              </p>
                             </p>
                             <ul>
                               <li
@@ -2041,7 +2041,7 @@ export default function page() {
                                                     }}
                                                   >
                                                     <span data-custom-class="body_text">
-                                                      <bdt className="statement-end-if-in-editor" />
+                                                      <p className="statement-end-if-in-editor" />
                                                     </span>
                                                   </span>
                                                 </span>
@@ -2056,10 +2056,10 @@ export default function page() {
                               </li>
                             </ul>
                             <p style={{ fontSize: 15, lineHeight: "1.5" }}>
-                              <bdt className="block-component" />
+                              <p className="block-component" />
                             </p>
                             <p style={{ fontSize: 15, lineHeight: "1.5" }}>
-                              <bdt className="block-component" />
+                              <p className="block-component" />
                             </p>
                             <ul>
                               <li
@@ -2096,7 +2096,7 @@ export default function page() {
                                                     }}
                                                   >
                                                     <span data-custom-class="body_text">
-                                                      <bdt className="statement-end-if-in-editor" />
+                                                      <p className="statement-end-if-in-editor" />
                                                     </span>
                                                   </span>
                                                 </span>
@@ -2111,43 +2111,43 @@ export default function page() {
                               </li>
                             </ul>
                             <div style={{ lineHeight: "1.5" }}>
-                              <bdt className="block-component">
+                              <p className="block-component">
                                 <span style={{ fontSize: 15 }}>
                                   <span data-custom-class="body_text" />
                                 </span>
-                              </bdt>
+                              </p>
                               <div style={{ lineHeight: "1.5" }}>
-                                <bdt className="block-component">
+                                <p className="block-component">
                                   <span style={{ fontSize: 15 }} />
-                                </bdt>
+                                </p>
                                 <div style={{ lineHeight: "1.5" }}>
-                                  <bdt className="block-component">
+                                  <p className="block-component">
                                     <span style={{ fontSize: 15 }} />
-                                  </bdt>
+                                  </p>
                                   <div style={{ lineHeight: "1.5" }}>
                                     <span style={{ fontSize: 15 }}>
-                                      <bdt className="block-component">
+                                      <p className="block-component">
                                         <span data-custom-class="body_text" />
-                                      </bdt>
+                                      </p>
                                     </span>
                                     <div style={{ lineHeight: "1.5" }}>
-                                      <bdt className="block-component">
+                                      <p className="block-component">
                                         <span style={{ fontSize: 15 }}>
                                           <span data-custom-class="body_text" />
                                         </span>
-                                      </bdt>
+                                      </p>
                                       <div style={{ lineHeight: "1.5" }}>
-                                        <bdt className="block-component">
+                                        <p className="block-component">
                                           <span style={{ fontSize: 15 }}>
                                             <span data-custom-class="body_text" />
                                           </span>
-                                        </bdt>
+                                        </p>
                                         <div style={{ lineHeight: "1.5" }}>
-                                          <bdt className="block-component">
+                                          <p className="block-component">
                                             <span style={{ fontSize: 15 }}>
                                               <span data-custom-class="body_text" />
                                             </span>
-                                          </bdt>
+                                          </p>
                                         </div>
                                         <ul>
                                           <li
@@ -2166,41 +2166,41 @@ export default function page() {
                                                 prevention.
                                               </span>
                                             </span>
-                                            <bdt className="statement-end-if-in-editor">
+                                            <p className="statement-end-if-in-editor">
                                               <span style={{ fontSize: 15 }}>
                                                 <span data-custom-class="body_text" />
                                               </span>
-                                            </bdt>
+                                            </p>
                                           </li>
                                         </ul>
                                         <div style={{ lineHeight: "1.5" }}>
-                                          <bdt className="block-component">
+                                          <p className="block-component">
                                             <span style={{ fontSize: 15 }}>
                                               <span data-custom-class="body_text" />
                                             </span>
-                                          </bdt>
+                                          </p>
                                           <div style={{ lineHeight: "1.5" }}>
-                                            <bdt className="block-component">
+                                            <p className="block-component">
                                               <span style={{ fontSize: 15 }}>
                                                 <span data-custom-class="body_text" />
                                               </span>
-                                            </bdt>
+                                            </p>
                                             <div style={{ lineHeight: "1.5" }}>
-                                              <bdt className="block-component">
+                                              <p className="block-component">
                                                 <span style={{ fontSize: 15 }}>
                                                   <span data-custom-class="body_text" />
                                                 </span>
-                                              </bdt>
+                                              </p>
                                               <div
                                                 style={{ lineHeight: "1.5" }}
                                               >
-                                                <bdt className="block-component">
+                                                <p className="block-component">
                                                   <span
                                                     style={{ fontSize: 15 }}
                                                   >
                                                     <span data-custom-class="body_text" />
                                                   </span>
-                                                </bdt>
+                                                </p>
                                               </div>
                                               <ul>
                                                 <li
@@ -2223,35 +2223,35 @@ export default function page() {
                                                       improve them.
                                                     </span>
                                                   </span>
-                                                  <bdt className="statement-end-if-in-editor">
+                                                  <p className="statement-end-if-in-editor">
                                                     <span
                                                       style={{ fontSize: 15 }}
                                                     >
                                                       <span data-custom-class="body_text" />
                                                     </span>
-                                                  </bdt>
+                                                  </p>
                                                 </li>
                                               </ul>
                                               <div
                                                 style={{ lineHeight: "1.5" }}
                                               >
-                                                <bdt className="block-component">
+                                                <p className="block-component">
                                                   <span
                                                     style={{ fontSize: 15 }}
                                                   >
                                                     <span data-custom-class="body_text" />
                                                   </span>
-                                                </bdt>
+                                                </p>
                                                 <div
                                                   style={{ lineHeight: "1.5" }}
                                                 >
-                                                  <bdt className="block-component">
+                                                  <p className="block-component">
                                                     <span
                                                       style={{ fontSize: 15 }}
                                                     >
                                                       <span data-custom-class="body_text" />
                                                     </span>
-                                                  </bdt>
+                                                  </p>
                                                 </div>
                                                 <ul>
                                                   <li
@@ -2277,7 +2277,7 @@ export default function page() {
                                                         promotional campaigns
                                                         that are most relevant
                                                         to you.
-                                                        <bdt className="statement-end-if-in-editor" />
+                                                        <p className="statement-end-if-in-editor" />
                                                       </span>
                                                     </span>
                                                   </li>
@@ -2285,25 +2285,25 @@ export default function page() {
                                                 <div
                                                   style={{ lineHeight: "1.5" }}
                                                 >
-                                                  <bdt className="block-component">
+                                                  <p className="block-component">
                                                     <span
                                                       style={{ fontSize: 15 }}
                                                     >
                                                       <span data-custom-class="body_text" />
                                                     </span>
-                                                  </bdt>
+                                                  </p>
                                                   <div
                                                     style={{
                                                       lineHeight: "1.5",
                                                     }}
                                                   >
-                                                    <bdt className="block-component">
+                                                    <p className="block-component">
                                                       <span
                                                         style={{ fontSize: 15 }}
                                                       >
                                                         <span data-custom-class="body_text" />
                                                       </span>
-                                                    </bdt>
+                                                    </p>
                                                   </div>
                                                   <ul>
                                                     <li
@@ -2332,7 +2332,7 @@ export default function page() {
                                                           prevent harm.
                                                         </span>
                                                       </span>
-                                                      <bdt className="statement-end-if-in-editor">
+                                                      <p className="statement-end-if-in-editor">
                                                         <span
                                                           style={{
                                                             fontSize: 15,
@@ -2340,7 +2340,7 @@ export default function page() {
                                                         >
                                                           <span data-custom-class="body_text" />
                                                         </span>
-                                                      </bdt>
+                                                      </p>
                                                     </li>
                                                   </ul>
                                                   <div
@@ -2348,34 +2348,34 @@ export default function page() {
                                                       lineHeight: "1.5",
                                                     }}
                                                   >
-                                                    <bdt className="block-component">
+                                                    <p className="block-component">
                                                       <span
                                                         style={{ fontSize: 15 }}
                                                       >
                                                         <span data-custom-class="body_text" />
                                                       </span>
-                                                    </bdt>
-                                                    <bdt className="block-component">
+                                                    </p>
+                                                    <p className="block-component">
                                                       <span
                                                         style={{ fontSize: 15 }}
                                                       >
                                                         <span data-custom-class="body_text" />
                                                       </span>
-                                                    </bdt>
-                                                    <bdt className="block-component">
+                                                    </p>
+                                                    <p className="block-component">
                                                       <span
                                                         style={{ fontSize: 15 }}
                                                       >
                                                         <span data-custom-class="body_text" />
                                                       </span>
-                                                    </bdt>
-                                                    <bdt className="block-component">
+                                                    </p>
+                                                    <p className="block-component">
                                                       <span
                                                         style={{ fontSize: 15 }}
                                                       >
                                                         <span data-custom-class="body_text" />
                                                       </span>
-                                                    </bdt>
+                                                    </p>
                                                   </div>
                                                   <div
                                                     style={{
@@ -2418,9 +2418,9 @@ export default function page() {
                                                           necessary and we have
                                                           a valid legal reason
                                                           (i.e.
-                                                          <bdt className="block-component" />
+                                                          <p className="block-component" />
                                                           ,
-                                                          <bdt className="statement-end-if-in-editor" />{" "}
+                                                          <p className="statement-end-if-in-editor" />{" "}
                                                           legal basis) to do so
                                                           under applicable law,
                                                           like with your
@@ -2428,16 +2428,16 @@ export default function page() {
                                                           with laws, to provide
                                                           you with services to
                                                           enter into or{" "}
-                                                          <bdt className="block-component" />
+                                                          <p className="block-component" />
                                                           fulfill
-                                                          <bdt className="statement-end-if-in-editor" />{" "}
+                                                          <p className="statement-end-if-in-editor" />{" "}
                                                           our contractual
                                                           obligations, to
                                                           protect your rights,
                                                           or to{" "}
-                                                          <bdt className="block-component" />
+                                                          <p className="block-component" />
                                                           fulfill
-                                                          <bdt className="statement-end-if-in-editor" />{" "}
+                                                          <p className="statement-end-if-in-editor" />{" "}
                                                           our legitimate
                                                           business interests.
                                                         </span>
@@ -2460,10 +2460,10 @@ export default function page() {
                                                       style={{ fontSize: 15 }}
                                                     >
                                                       <span data-custom-class="body_text">
-                                                        <bdt className="block-component" />
+                                                        <p className="block-component" />
                                                       </span>
                                                       <span data-custom-class="body_text">
-                                                        <bdt className="block-component" />
+                                                        <p className="block-component" />
                                                       </span>
                                                     </span>
                                                   </div>
@@ -2505,7 +2505,7 @@ export default function page() {
                                                       style={{ fontSize: 15 }}
                                                     >
                                                       <span data-custom-class="body_text">
-                                                        <bdt className="statement-end-if-in-editor" />
+                                                        <p className="statement-end-if-in-editor" />
                                                       </span>
                                                     </span>
                                                   </div>
@@ -2551,9 +2551,9 @@ export default function page() {
                                                           information if you
                                                           have given us
                                                           permission (i.e.
-                                                          <bdt className="block-component" />
+                                                          <p className="block-component" />
                                                           ,
-                                                          <bdt className="statement-end-if-in-editor" />{" "}
+                                                          <p className="statement-end-if-in-editor" />{" "}
                                                           consent) to use your
                                                           personal information
                                                           for a specific
@@ -2590,13 +2590,13 @@ export default function page() {
                                                       lineHeight: "1.5",
                                                     }}
                                                   >
-                                                    <bdt className="block-component">
+                                                    <p className="block-component">
                                                       <span
                                                         style={{ fontSize: 15 }}
                                                       >
                                                         <span data-custom-class="body_text" />
                                                       </span>
-                                                    </bdt>
+                                                    </p>
                                                   </div>
                                                   <ul>
                                                     <li
@@ -2619,9 +2619,9 @@ export default function page() {
                                                           personal information
                                                           when we believe it is
                                                           necessary to{" "}
-                                                          <bdt className="block-component" />
+                                                          <p className="block-component" />
                                                           fulfill
-                                                          <bdt className="statement-end-if-in-editor" />{" "}
+                                                          <p className="statement-end-if-in-editor" />{" "}
                                                           our contractual
                                                           obligations to you,
                                                           including providing
@@ -2631,7 +2631,7 @@ export default function page() {
                                                           contract with you.
                                                         </span>
                                                       </span>
-                                                      <bdt className="statement-end-if-in-editor">
+                                                      <p className="statement-end-if-in-editor">
                                                         <span
                                                           style={{
                                                             fontSize: 15,
@@ -2639,7 +2639,7 @@ export default function page() {
                                                         >
                                                           <span data-custom-class="body_text" />
                                                         </span>
-                                                      </bdt>
+                                                      </p>
                                                     </li>
                                                   </ul>
                                                   <div
@@ -2647,13 +2647,13 @@ export default function page() {
                                                       lineHeight: "1.5",
                                                     }}
                                                   >
-                                                    <bdt className="block-component">
+                                                    <p className="block-component">
                                                       <span
                                                         style={{ fontSize: 15 }}
                                                       >
                                                         <span data-custom-class="body_text" />
                                                       </span>
-                                                    </bdt>
+                                                    </p>
                                                   </div>
                                                   <ul>
                                                     <li
@@ -2702,7 +2702,7 @@ export default function page() {
                                                       <span
                                                         style={{ fontSize: 15 }}
                                                       >
-                                                        <bdt className="block-component" />
+                                                        <p className="block-component" />
                                                       </span>
                                                     </span>
                                                     <div
@@ -2716,7 +2716,7 @@ export default function page() {
                                                             fontSize: 15,
                                                           }}
                                                         >
-                                                          <bdt className="block-component" />
+                                                          <p className="block-component" />
                                                         </span>
                                                       </span>
                                                       <div
@@ -2730,7 +2730,7 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -2751,15 +2751,15 @@ export default function page() {
                                                                 fontSize: 15,
                                                               }}
                                                             >
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                               Analyze
-                                                              <bdt className="statement-end-if-in-editor" />{" "}
+                                                              <p className="statement-end-if-in-editor" />{" "}
                                                               how our Services
                                                               are used so we can
                                                               improve them to
                                                               engage and retain
                                                               users
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -2775,7 +2775,7 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -2799,7 +2799,7 @@ export default function page() {
                                                               Support our
                                                               marketing
                                                               activities
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -2815,7 +2815,7 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -2840,7 +2840,7 @@ export default function page() {
                                                               and/or prevent
                                                               fraudulent
                                                               activities
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -2856,7 +2856,7 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -2883,7 +2883,7 @@ export default function page() {
                                                               services so we can
                                                               improve user
                                                               experience
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -2899,10 +2899,10 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
-                                                        <bdt className="statement-end-if-in-editor">
+                                                        <p className="statement-end-if-in-editor">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -2910,8 +2910,8 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
-                                                        <bdt className="block-component">
+                                                        </p>
+                                                        <p className="block-component">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -2919,7 +2919,7 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
+                                                        </p>
                                                       </div>
                                                       <ul>
                                                         <li
@@ -2958,7 +2958,7 @@ export default function page() {
                                                               litigation in
                                                               which we are
                                                               involved.
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                               <br />
                                                             </span>
                                                           </span>
@@ -2969,7 +2969,7 @@ export default function page() {
                                                           lineHeight: "1.5",
                                                         }}
                                                       >
-                                                        <bdt className="block-component">
+                                                        <p className="block-component">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -2977,7 +2977,7 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
+                                                        </p>
                                                       </div>
                                                       <ul>
                                                         <li
@@ -3010,7 +3010,7 @@ export default function page() {
                                                               any person.
                                                             </span>
                                                           </span>
-                                                          <bdt className="statement-end-if-in-editor">
+                                                          <p className="statement-end-if-in-editor">
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -3018,7 +3018,7 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text" />
                                                             </span>
-                                                          </bdt>
+                                                          </p>
                                                         </li>
                                                       </ul>
                                                       <div
@@ -3026,7 +3026,7 @@ export default function page() {
                                                           lineHeight: "1.5",
                                                         }}
                                                       >
-                                                        <bdt className="block-component">
+                                                        <p className="block-component">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -3034,16 +3034,16 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
+                                                        </p>
                                                         <span data-custom-class="body_text">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component">
-                                                              <bdt className="block-component" />
-                                                            </bdt>
+                                                            <p className="block-component">
+                                                              <p className="block-component" />
+                                                            </p>
                                                           </span>
                                                         </span>
                                                       </div>
@@ -3091,7 +3091,7 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="statement-end-if-in-editor" />
+                                                            <p className="statement-end-if-in-editor" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -3111,9 +3111,9 @@ export default function page() {
                                                             have given us
                                                             specific permission
                                                             (i.e.
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                             ,
-                                                            <bdt className="statement-end-if-in-editor" />{" "}
+                                                            <p className="statement-end-if-in-editor" />{" "}
                                                             express consent) to
                                                             use your personal
                                                             information for a
@@ -3121,9 +3121,9 @@ export default function page() {
                                                             in situations where
                                                             your permission can
                                                             be inferred (i.e.
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                             ,
-                                                            <bdt className="statement-end-if-in-editor" />{" "}
+                                                            <p className="statement-end-if-in-editor" />{" "}
                                                             implied consent).
                                                             You can&nbsp;
                                                           </span>
@@ -3220,7 +3220,7 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -3241,7 +3241,7 @@ export default function page() {
                                                               and fraud
                                                               detection and
                                                               prevention
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -3251,7 +3251,7 @@ export default function page() {
                                                           lineHeight: "1.5",
                                                         }}
                                                       >
-                                                        <bdt className="block-component">
+                                                        <p className="block-component">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -3259,7 +3259,7 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
+                                                        </p>
                                                       </div>
                                                       <ul>
                                                         <li
@@ -3280,7 +3280,7 @@ export default function page() {
                                                               conditions are met
                                                             </span>
                                                           </span>
-                                                          <bdt className="statement-end-if-in-editor">
+                                                          <p className="statement-end-if-in-editor">
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -3288,7 +3288,7 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text" />
                                                             </span>
-                                                          </bdt>
+                                                          </p>
                                                         </li>
                                                       </ul>
                                                       <div
@@ -3296,7 +3296,7 @@ export default function page() {
                                                           lineHeight: "1.5",
                                                         }}
                                                       >
-                                                        <bdt className="block-component">
+                                                        <p className="block-component">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -3304,7 +3304,7 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
+                                                        </p>
                                                       </div>
                                                       <ul>
                                                         <li
@@ -3329,7 +3329,7 @@ export default function page() {
                                                               insurance claim
                                                             </span>
                                                           </span>
-                                                          <bdt className="statement-end-if-in-editor">
+                                                          <p className="statement-end-if-in-editor">
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -3337,7 +3337,7 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text" />
                                                             </span>
-                                                          </bdt>
+                                                          </p>
                                                         </li>
                                                       </ul>
                                                       <div
@@ -3345,7 +3345,7 @@ export default function page() {
                                                           lineHeight: "1.5",
                                                         }}
                                                       >
-                                                        <bdt className="block-component">
+                                                        <p className="block-component">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -3353,7 +3353,7 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
+                                                        </p>
                                                       </div>
                                                       <ul>
                                                         <li
@@ -3375,7 +3375,7 @@ export default function page() {
                                                               with next of kin
                                                             </span>
                                                           </span>
-                                                          <bdt className="statement-end-if-in-editor">
+                                                          <p className="statement-end-if-in-editor">
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -3383,7 +3383,7 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text" />
                                                             </span>
-                                                          </bdt>
+                                                          </p>
                                                         </li>
                                                       </ul>
                                                       <div
@@ -3397,7 +3397,7 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -3421,7 +3421,7 @@ export default function page() {
                                                               been, is, or may
                                                               be victim of
                                                               financial abuse
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -3437,7 +3437,7 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -3472,7 +3472,7 @@ export default function page() {
                                                               contravention of
                                                               the laws of Canada
                                                               or a province
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -3488,7 +3488,7 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -3513,7 +3513,7 @@ export default function page() {
                                                               the court relating
                                                               to the production
                                                               of records
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -3523,7 +3523,7 @@ export default function page() {
                                                           lineHeight: "1.5",
                                                         }}
                                                       >
-                                                        <bdt className="block-component">
+                                                        <p className="block-component">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -3531,7 +3531,7 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
+                                                        </p>
                                                       </div>
                                                       <ul>
                                                         <li
@@ -3558,7 +3558,7 @@ export default function page() {
                                                               which the
                                                               information was
                                                               produced
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -3574,7 +3574,7 @@ export default function page() {
                                                           }}
                                                         >
                                                           <span data-custom-class="body_text">
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -3596,7 +3596,7 @@ export default function page() {
                                                               journalistic,
                                                               artistic, or
                                                               literary purposes
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </span>
                                                         </li>
@@ -3612,7 +3612,7 @@ export default function page() {
                                                           }}
                                                         >
                                                           <span data-custom-class="body_text">
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                       </div>
@@ -3635,9 +3635,9 @@ export default function page() {
                                                               specified by the
                                                               regulations
                                                             </span>
-                                                            <bdt className="statement-end-if-in-editor">
+                                                            <p className="statement-end-if-in-editor">
                                                               <span data-custom-class="body_text" />
-                                                            </bdt>
+                                                            </p>
                                                           </span>
                                                         </li>
                                                       </ul>
@@ -3646,7 +3646,7 @@ export default function page() {
                                                           lineHeight: "1.5",
                                                         }}
                                                       >
-                                                        <bdt className="statement-end-if-in-editor">
+                                                        <p className="statement-end-if-in-editor">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -3654,8 +3654,8 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
-                                                        <bdt className="statement-end-if-in-editor">
+                                                        </p>
+                                                        <p className="statement-end-if-in-editor">
                                                           <span
                                                             style={{
                                                               fontSize: 15,
@@ -3663,7 +3663,7 @@ export default function page() {
                                                           >
                                                             <span data-custom-class="body_text" />
                                                           </span>
-                                                        </bdt>
+                                                        </p>
                                                       </div>
                                                       <div
                                                         style={{
@@ -3760,7 +3760,7 @@ export default function page() {
                                                                 this section
                                                                 and/or with the
                                                                 following{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 third parties.
                                                               </em>
                                                             </span>
@@ -3787,7 +3787,7 @@ export default function page() {
                                                             }}
                                                           >
                                                             <span data-custom-class="body_text">
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                             </span>
                                                           </span>
                                                         </span>
@@ -3811,7 +3811,7 @@ export default function page() {
                                                         >
                                                           <span data-custom-class="body_text">
                                                             We{" "}
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                             may need to share
                                                             your personal
                                                             information in the
@@ -3865,7 +3865,7 @@ export default function page() {
                                                           }}
                                                         >
                                                           <span data-custom-class="body_text">
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </span>
                                                         </span>
                                                         <div
@@ -3878,9 +3878,9 @@ export default function page() {
                                                               fontSize: 15,
                                                             }}
                                                           >
-                                                            <bdt className="block-component">
+                                                            <p className="block-component">
                                                               <span data-custom-class="body_text" />
-                                                            </bdt>
+                                                            </p>
                                                           </span>
                                                         </div>
                                                         <ul>
@@ -3907,9 +3907,9 @@ export default function page() {
                                                                 will require
                                                                 those affiliates
                                                                 to{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 honor
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 this Privacy
                                                                 Notice.
                                                                 Affiliates
@@ -3925,9 +3925,9 @@ export default function page() {
                                                                 under common
                                                                 control with us.
                                                               </span>
-                                                              <bdt className="statement-end-if-in-editor">
+                                                              <p className="statement-end-if-in-editor">
                                                                 <span data-custom-class="body_text" />
-                                                              </bdt>
+                                                              </p>
                                                             </span>
                                                           </li>
                                                         </ul>
@@ -3936,7 +3936,7 @@ export default function page() {
                                                             lineHeight: "1.5",
                                                           }}
                                                         >
-                                                          <bdt className="block-component">
+                                                          <p className="block-component">
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -3944,7 +3944,7 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text" />
                                                             </span>
-                                                          </bdt>
+                                                          </p>
                                                         </div>
                                                         <ul>
                                                           <li
@@ -3975,7 +3975,7 @@ export default function page() {
                                                                 promotions.
                                                               </span>
                                                             </span>
-                                                            <bdt className="statement-end-if-in-editor">
+                                                            <p className="statement-end-if-in-editor">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
@@ -3983,7 +3983,7 @@ export default function page() {
                                                               >
                                                                 <span data-custom-class="body_text" />
                                                               </span>
-                                                            </bdt>
+                                                            </p>
                                                           </li>
                                                         </ul>
                                                         <div
@@ -3991,7 +3991,7 @@ export default function page() {
                                                             lineHeight: "1.5",
                                                           }}
                                                         >
-                                                          <bdt className="block-component">
+                                                          <p className="block-component">
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -3999,7 +3999,7 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text" />
                                                             </span>
-                                                          </bdt>
+                                                          </p>
                                                         </div>
                                                         <ul>
                                                           <li
@@ -4020,14 +4020,14 @@ export default function page() {
                                                                 When you share
                                                                 personal
                                                                 information
-                                                                <bdt className="block-component" />{" "}
+                                                                <p className="block-component" />{" "}
                                                                 (for example, by
                                                                 posting
                                                                 comments,
                                                                 contributions,
                                                                 or other content
                                                                 to the Services)
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 or otherwise
                                                                 interact with
                                                                 public areas of
@@ -4041,7 +4041,7 @@ export default function page() {
                                                                 outside the
                                                                 Services in
                                                                 perpetuity.
-                                                                <bdt className="block-component" />{" "}
+                                                                <p className="block-component" />{" "}
                                                                 If you interact
                                                                 with other users
                                                                 of our Services
@@ -4057,7 +4057,7 @@ export default function page() {
                                                                 photo, and
                                                                 descriptions of
                                                                 your activity.
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 Similarly, other
                                                                 users will be
                                                                 able to view
@@ -4068,7 +4068,7 @@ export default function page() {
                                                                 Services, and
                                                                 view your
                                                                 profile.
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                               </span>
                                                             </span>
                                                           </li>
@@ -4078,7 +4078,7 @@ export default function page() {
                                                             lineHeight: "1.5",
                                                           }}
                                                         >
-                                                          <bdt className="block-component">
+                                                          <p className="block-component">
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -4086,13 +4086,13 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text" />
                                                             </span>
-                                                          </bdt>
+                                                          </p>
                                                           <div
                                                             style={{
                                                               lineHeight: "1.5",
                                                             }}
                                                           >
-                                                            <bdt className="block-component">
+                                                            <p className="block-component">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
@@ -4100,7 +4100,7 @@ export default function page() {
                                                               >
                                                                 <span data-custom-class="body_text" />
                                                               </span>
-                                                            </bdt>
+                                                            </p>
                                                             <span
                                                               style={{
                                                                 color:
@@ -4130,11 +4130,11 @@ export default function page() {
                                                                           "rgb(89, 89, 89)",
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component">
+                                                                      <p className="block-component">
                                                                         <span data-custom-class="heading_1">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                         </span>
-                                                                      </bdt>
+                                                                      </p>
                                                                     </span>
                                                                   </span>
                                                                 </span>
@@ -4290,10 +4290,10 @@ export default function page() {
                                                                   maintain the
                                                                   security of
                                                                   our Services
-                                                                  <bdt className="block-component" />{" "}
+                                                                  <p className="block-component" />{" "}
                                                                   and your
                                                                   account
-                                                                  <bdt className="statement-end-if-in-editor" />
+                                                                  <p className="statement-end-if-in-editor" />
                                                                   , prevent
                                                                   crashes, fix
                                                                   bugs, save
@@ -4382,13 +4382,13 @@ export default function page() {
                                                                 </span>
                                                               </span>
                                                             </span>
-                                                            <bdt className="block-component">
+                                                            <p className="block-component">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
                                                                 }}
                                                               />
-                                                            </bdt>
+                                                            </p>
                                                           </div>
                                                           <div
                                                             style={{
@@ -4419,9 +4419,9 @@ export default function page() {
                                                                 tracking
                                                                 technologies are
                                                                 deemed to be a{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 "sale"/"sharing"
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 (which includes
                                                                 targeted
                                                                 advertising, as
@@ -4438,9 +4438,9 @@ export default function page() {
                                                                 request as
                                                                 described below
                                                                 under section{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 "
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                               </span>
                                                             </span>
                                                             <span data-custom-class="body_text">
@@ -4470,11 +4470,11 @@ export default function page() {
                                                               }}
                                                             >
                                                               <span data-custom-class="body_text">
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 "
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                               </span>
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </div>
                                                           <div
@@ -4523,20 +4523,20 @@ export default function page() {
                                                                     }}
                                                                   >
                                                                     <span data-custom-class="body_text">
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                       .
                                                                     </span>
                                                                   </span>
                                                                 </span>
                                                               </span>
                                                             </span>
-                                                            <bdt className="block-component">
+                                                            <p className="block-component">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
                                                                 }}
                                                               />
-                                                            </bdt>
+                                                            </p>
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -4557,49 +4557,49 @@ export default function page() {
                                                                 with Google
                                                                 Analytics to
                                                                 track and{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 analyze
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 the use of the
                                                                 Services.
-                                                                <bdt className="block-component" />{" "}
+                                                                <p className="block-component" />{" "}
                                                                 The Google
                                                                 Analytics
                                                                 Advertising
                                                                 Features that we
                                                                 may use include:{" "}
-                                                                <bdt className="forloop-component" />
-                                                                <bdt className="block-component" />
-                                                                <bdt className="question">
+                                                                <p className="forloop-component" />
+                                                                <p className="block-component" />
+                                                                <p className="question">
                                                                   Google Display
                                                                   Network
                                                                   Impressions
                                                                   Reporting
-                                                                </bdt>
-                                                                <bdt className="block-component" />
-                                                                <bdt className="forloop-component" />
-                                                                <bdt className="block-component" />
+                                                                </p>
+                                                                <p className="block-component" />
+                                                                <p className="forloop-component" />
+                                                                <p className="block-component" />
                                                                 ,{" "}
-                                                                <bdt className="question">
+                                                                <p className="question">
                                                                   Remarketing
                                                                   with Google
                                                                   Analytics
-                                                                </bdt>
-                                                                <bdt className="else-block" />
-                                                                <bdt className="forloop-component" />
-                                                                <bdt className="block-component" />{" "}
+                                                                </p>
+                                                                <p className="else-block" />
+                                                                <p className="forloop-component" />
+                                                                <p className="block-component" />{" "}
                                                                 and{" "}
-                                                                <bdt className="question">
+                                                                <p className="question">
                                                                   Google
                                                                   Analytics
                                                                   Demographics
                                                                   and Interests
                                                                   Reporting
-                                                                </bdt>
-                                                                <bdt className="statement-end-if-in-editor" />
-                                                                <bdt className="forloop-component" />
+                                                                </p>
+                                                                <p className="statement-end-if-in-editor" />
+                                                                <p className="forloop-component" />
                                                                 .
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 To opt out of
                                                                 being tracked by
                                                                 Google Analytics
@@ -4621,7 +4621,7 @@ export default function page() {
                                                                   </a>
                                                                   .
                                                                 </span>
-                                                                <bdt className="block-component" />{" "}
+                                                                <p className="block-component" />{" "}
                                                                 You can opt out
                                                                 of Google
                                                                 Analytics
@@ -4685,7 +4685,7 @@ export default function page() {
                                                                   </a>
                                                                 </span>
                                                                 .
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 For more
                                                                 information on
                                                                 the privacy
@@ -4713,13 +4713,13 @@ export default function page() {
                                                                 .
                                                               </span>
                                                             </span>
-                                                            <bdt className="statement-end-if-in-editor">
+                                                            <p className="statement-end-if-in-editor">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
                                                                 }}
                                                               />
-                                                            </bdt>
+                                                            </p>
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -4772,7 +4772,7 @@ export default function page() {
                                                                               }}
                                                                             >
                                                                               <span data-custom-class="body_text">
-                                                                                <bdt className="statement-end-if-in-editor" />
+                                                                                <p className="statement-end-if-in-editor" />
                                                                               </span>
                                                                             </span>
                                                                           </span>
@@ -4788,7 +4788,7 @@ export default function page() {
                                                                 fontSize: 15,
                                                               }}
                                                             >
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                             </span>
                                                           </div>
                                                           <div
@@ -4873,13 +4873,13 @@ export default function page() {
                                                                 similar
                                                                 technologies
                                                                 (collectively,{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 "
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                                 AI Products
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 "
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                                 ). These tools
                                                                 are designed to
                                                                 enhance your
@@ -4894,7 +4894,7 @@ export default function page() {
                                                                 Products within
                                                                 our Services.
                                                               </span>
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                             </span>
                                                           </div>
                                                           <div
@@ -4946,22 +4946,22 @@ export default function page() {
                                                                 third-party
                                                                 service
                                                                 providers (
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 "
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                                 AI Service
                                                                 Providers
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 "
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                                 ), including{" "}
-                                                                <bdt className="forloop-component" />
-                                                                <bdt className="block-component" />
-                                                                <bdt className="question">
+                                                                <p className="forloop-component" />
+                                                                <p className="block-component" />
+                                                                <p className="question">
                                                                   Anthropic
-                                                                </bdt>
-                                                                <bdt className="block-component" />
-                                                                <bdt className="forloop-component" />
+                                                                </p>
+                                                                <p className="block-component" />
+                                                                <p className="forloop-component" />
                                                                 . As outlined in
                                                                 this Privacy
                                                                 Notice, your
@@ -4977,10 +4977,10 @@ export default function page() {
                                                                 Products for
                                                                 purposes
                                                                 outlined in{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 "
-                                                                <bdt className="statement-end-if-in-editor" />
-                                                                <bdt className="block-component" />
+                                                                <p className="statement-end-if-in-editor" />
+                                                                <p className="block-component" />
                                                               </span>
                                                             </span>
                                                             <span data-custom-class="body_text">
@@ -5008,10 +5008,10 @@ export default function page() {
                                                                   fontSize: 15,
                                                                 }}
                                                               >
-                                                                <bdt className="else-block" />
-                                                                <bdt className="block-component" />
+                                                                <p className="else-block" />
+                                                                <p className="block-component" />
                                                                 "
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 You must not use
                                                                 the AI Products
                                                                 in any way that
@@ -5021,7 +5021,7 @@ export default function page() {
                                                                 AI Service
                                                                 Provider.
                                                               </span>
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </div>
                                                           <div
@@ -5084,7 +5084,7 @@ export default function page() {
                                                                 the following
                                                                 functions:
                                                               </span>
-                                                              <bdt className="forloop-component" />
+                                                              <p className="forloop-component" />
                                                             </span>
                                                           </div>
                                                           <ul>
@@ -5100,13 +5100,13 @@ export default function page() {
                                                                   fontSize: 15,
                                                                 }}
                                                               >
-                                                                <bdt className="question">
+                                                                <p className="question">
                                                                   <span data-custom-class="body_text">
                                                                     AI
                                                                     predictive
                                                                     analytics
                                                                   </span>
-                                                                </bdt>
+                                                                </p>
                                                               </span>
                                                             </li>
                                                           </ul>
@@ -5116,7 +5116,7 @@ export default function page() {
                                                                 fontSize: 15,
                                                               }}
                                                             >
-                                                              <bdt className="forloop-component" />
+                                                              <p className="forloop-component" />
                                                               <br />
                                                             </span>
                                                           </div>
@@ -5184,8 +5184,8 @@ export default function page() {
                                                                 mind about your
                                                                 data's safety.
                                                               </span>
-                                                              <bdt className="block-component" />
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="block-component" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                             <span
                                                               style={{
@@ -5246,7 +5246,7 @@ export default function page() {
                                                                                 }}
                                                                               >
                                                                                 <span data-custom-class="body_text">
-                                                                                  <bdt className="block-component" />
+                                                                                  <p className="block-component" />
                                                                                 </span>
                                                                               </span>
                                                                             </span>
@@ -5448,7 +5448,7 @@ export default function page() {
                                                                       }}
                                                                     >
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                       </span>
                                                                     </span>
                                                                   </span>
@@ -5577,13 +5577,13 @@ export default function page() {
                                                                                   }}
                                                                                 >
                                                                                   <span data-custom-class="body_text">
-                                                                                    <bdt className="statement-end-if-in-editor" />
+                                                                                    <p className="statement-end-if-in-editor" />
                                                                                   </span>
-                                                                                  <bdt className="block-component">
+                                                                                  <p className="block-component">
                                                                                     <span data-custom-class="body_text">
-                                                                                      <bdt className="block-component" />
+                                                                                      <p className="block-component" />
                                                                                     </span>
-                                                                                  </bdt>
+                                                                                  </p>
                                                                                 </span>
                                                                               </span>
                                                                             </span>
@@ -5689,9 +5689,9 @@ export default function page() {
                                                                     for as long
                                                                     as necessary
                                                                     to{" "}
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                     fulfill
-                                                                    <bdt className="statement-end-if-in-editor" />{" "}
+                                                                    <p className="statement-end-if-in-editor" />{" "}
                                                                     the purposes
                                                                     outlined in
                                                                     this Privacy
@@ -5753,7 +5753,7 @@ export default function page() {
                                                                   accounting, or
                                                                   other legal
                                                                   requirements).
-                                                                  <bdt className="block-component" />{" "}
+                                                                  <p className="block-component" />{" "}
                                                                   No purpose in
                                                                   this notice
                                                                   will require
@@ -5774,17 +5774,17 @@ export default function page() {
                                                                       }}
                                                                     >
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                       </span>
                                                                     </span>
                                                                   </span>
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   the period of
                                                                   time in which
                                                                   users have an
                                                                   account with
                                                                   us
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   <span
                                                                     style={{
                                                                       fontSize: 15,
@@ -5797,7 +5797,7 @@ export default function page() {
                                                                       }}
                                                                     >
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="else-block" />
+                                                                        <p className="else-block" />
                                                                       </span>
                                                                     </span>
                                                                   </span>
@@ -5842,9 +5842,9 @@ export default function page() {
                                                                   information,
                                                                   we will either
                                                                   delete or{" "}
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   anonymize
-                                                                  <bdt className="statement-end-if-in-editor" />{" "}
+                                                                  <p className="statement-end-if-in-editor" />{" "}
                                                                   such
                                                                   information,
                                                                   or, if this is
@@ -5873,7 +5873,7 @@ export default function page() {
                                                                         "rgb(89, 89, 89)",
                                                                     }}
                                                                   >
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                   </span>
                                                                 </span>
                                                               </span>
@@ -5973,9 +5973,9 @@ export default function page() {
                                                                     information
                                                                     through a
                                                                     system of{" "}
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                     organizational
-                                                                    <bdt className="statement-end-if-in-editor" />{" "}
+                                                                    <p className="statement-end-if-in-editor" />{" "}
                                                                     and
                                                                     technical
                                                                     security
@@ -6017,9 +6017,9 @@ export default function page() {
                                                                   appropriate
                                                                   and reasonable
                                                                   technical and{" "}
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   organizational
-                                                                  <bdt className="statement-end-if-in-editor" />{" "}
+                                                                  <p className="statement-end-if-in-editor" />{" "}
                                                                   security
                                                                   measures
                                                                   designed to
@@ -6049,9 +6049,9 @@ export default function page() {
                                                                   that hackers,
                                                                   cybercriminals,
                                                                   or other{" "}
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   unauthorized
-                                                                  <bdt className="statement-end-if-in-editor" />{" "}
+                                                                  <p className="statement-end-if-in-editor" />{" "}
                                                                   third parties
                                                                   will not be
                                                                   able to defeat
@@ -6085,7 +6085,7 @@ export default function page() {
                                                                         "rgb(89, 89, 89)",
                                                                     }}
                                                                   >
-                                                                    <bdt className="statement-end-if-in-editor" />
+                                                                    <p className="statement-end-if-in-editor" />
                                                                   </span>
                                                                   <span
                                                                     style={{
@@ -6095,7 +6095,7 @@ export default function page() {
                                                                     }}
                                                                   >
                                                                     <span data-custom-class="body_text">
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </span>
                                                                 </span>
@@ -6194,14 +6194,14 @@ export default function page() {
                                                                     collect data
                                                                     from or
                                                                     market to{" "}
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                     children
                                                                     under 18
                                                                     years of age
-                                                                    <bdt className="else-block" />
+                                                                    <p className="else-block" />
                                                                     .
                                                                   </em>
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                 </span>
                                                               </span>
                                                             </span>
@@ -6293,19 +6293,19 @@ export default function page() {
                                                                     }}
                                                                   >
                                                                     <span data-custom-class="body_text">
-                                                                      <bdt className="block-component" />
-                                                                      <bdt className="question">
+                                                                      <p className="block-component" />
+                                                                      <p className="question">
                                                                         office@scufflr.com
-                                                                      </bdt>
-                                                                      <bdt className="else-block" />
+                                                                      </p>
+                                                                      <p className="else-block" />
                                                                     </span>
                                                                   </span>
                                                                   .
                                                                 </span>
                                                                 <span data-custom-class="body_text">
-                                                                  <bdt className="else-block">
-                                                                    <bdt className="block-component" />
-                                                                  </bdt>
+                                                                  <p className="else-block">
+                                                                    <p className="block-component" />
+                                                                  </p>
                                                                 </span>
                                                               </span>
                                                             </span>
@@ -6409,22 +6409,22 @@ export default function page() {
                                                                       >
                                                                         <span data-custom-class="body_text">
                                                                           <em>
-                                                                            <bdt className="block-component" />
+                                                                            <p className="block-component" />
                                                                           </em>
                                                                         </span>
                                                                       </span>
                                                                     </span>
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                     Depending on
                                                                     your state
                                                                     of residence
                                                                     in the US or
                                                                     in{" "}
-                                                                    <bdt className="else-block" />
+                                                                    <p className="else-block" />
                                                                     some
                                                                     regions,
                                                                     such as{" "}
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                     the European
                                                                     Economic
                                                                     Area (EEA),
@@ -6433,7 +6433,7 @@ export default function page() {
                                                                     (UK),
                                                                     Switzerland,
                                                                     and Canada
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                     , you have
                                                                     rights that
                                                                     allow you
@@ -6456,7 +6456,7 @@ export default function page() {
                                                                       >
                                                                         <span data-custom-class="body_text">
                                                                           <em>
-                                                                            <bdt className="statement-end-if-in-editor" />
+                                                                            <p className="statement-end-if-in-editor" />
                                                                           </em>
                                                                         </span>
                                                                       </span>
@@ -6486,7 +6486,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </span>
                                                                 </span>
@@ -6522,11 +6522,11 @@ export default function page() {
                                                                 <span data-custom-class="body_text">
                                                                   In some
                                                                   regions (like{" "}
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   the EEA, UK,
                                                                   Switzerland,
                                                                   and Canada
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   ), you have
                                                                   certain rights
                                                                   under
@@ -6576,9 +6576,9 @@ export default function page() {
                                                                   details
                                                                   provided in
                                                                   the section{" "}
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   "
-                                                                  <bdt className="statement-end-if-in-editor" />
+                                                                  <p className="statement-end-if-in-editor" />
                                                                 </span>
                                                               </span>
                                                             </span>
@@ -6624,9 +6624,9 @@ export default function page() {
                                                                 }}
                                                               >
                                                                 <span data-custom-class="body_text">
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   "
-                                                                  <bdt className="statement-end-if-in-editor" />{" "}
+                                                                  <p className="statement-end-if-in-editor" />{" "}
                                                                   below.
                                                                 </span>
                                                               </span>
@@ -6669,7 +6669,7 @@ export default function page() {
                                                                   data
                                                                   protection
                                                                   laws.
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                 </span>
                                                               </span>
                                                             </span>
@@ -6938,7 +6938,7 @@ export default function page() {
                                                                   to process
                                                                   your personal
                                                                   information,
-                                                                  <bdt className="block-component" />{" "}
+                                                                  <p className="block-component" />{" "}
                                                                   which may be
                                                                   express and/or
                                                                   implied
@@ -6946,7 +6946,7 @@ export default function page() {
                                                                   depending on
                                                                   the applicable
                                                                   law,
-                                                                  <bdt className="statement-end-if-in-editor" />{" "}
+                                                                  <p className="statement-end-if-in-editor" />{" "}
                                                                   you have the
                                                                   right to
                                                                   withdraw your
@@ -6961,9 +6961,9 @@ export default function page() {
                                                                   details
                                                                   provided in
                                                                   the section{" "}
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   "
-                                                                  <bdt className="statement-end-if-in-editor" />
+                                                                  <p className="statement-end-if-in-editor" />
                                                                 </span>
                                                               </span>
                                                             </span>
@@ -7009,11 +7009,11 @@ export default function page() {
                                                                 }}
                                                               >
                                                                 <span data-custom-class="body_text">
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   "
-                                                                  <bdt className="statement-end-if-in-editor" />{" "}
+                                                                  <p className="statement-end-if-in-editor" />{" "}
                                                                   below
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   .
                                                                 </span>
                                                               </span>
@@ -7045,10 +7045,10 @@ export default function page() {
                                                                 processing
                                                                 before its
                                                                 withdrawal nor,
-                                                                <bdt className="block-component" />{" "}
+                                                                <p className="block-component" />{" "}
                                                                 when applicable
                                                                 law allows,
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 will it affect
                                                                 the processing
                                                                 of your personal
@@ -7059,10 +7059,10 @@ export default function page() {
                                                                 processing
                                                                 grounds other
                                                                 than consent.
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                               </span>
                                                             </span>
-                                                            <bdt className="block-component">
+                                                            <p className="block-component">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
@@ -7070,7 +7070,7 @@ export default function page() {
                                                               >
                                                                 <span data-custom-class="body_text" />
                                                               </span>
-                                                            </bdt>
+                                                            </p>
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -7099,7 +7099,7 @@ export default function page() {
                                                                 or terminate
                                                                 your account,
                                                                 you can:
-                                                                <bdt className="forloop-component" />
+                                                                <p className="forloop-component" />
                                                               </span>
                                                             </span>
                                                           </div>
@@ -7117,13 +7117,13 @@ export default function page() {
                                                                     fontSize: 15,
                                                                   }}
                                                                 >
-                                                                  <bdt className="question">
+                                                                  <p className="question">
                                                                     Contact us
                                                                     using the
                                                                     contact
                                                                     information
                                                                     provided.
-                                                                  </bdt>
+                                                                  </p>
                                                                 </span>
                                                               </span>
                                                             </li>
@@ -7139,7 +7139,7 @@ export default function page() {
                                                                   fontSize: 15,
                                                                 }}
                                                               >
-                                                                <bdt className="forloop-component" />
+                                                                <p className="forloop-component" />
                                                               </span>
                                                             </span>
                                                           </div>
@@ -7157,14 +7157,14 @@ export default function page() {
                                                                     fontSize: 15,
                                                                   }}
                                                                 >
-                                                                  <bdt className="question">
+                                                                  <p className="question">
                                                                     Log in to
                                                                     your account
                                                                     settings and
                                                                     update your
                                                                     user
                                                                     account.
-                                                                  </bdt>
+                                                                  </p>
                                                                 </span>
                                                               </span>
                                                             </li>
@@ -7180,7 +7180,7 @@ export default function page() {
                                                                   fontSize: 15,
                                                                 }}
                                                               >
-                                                                <bdt className="forloop-component" />
+                                                                <p className="forloop-component" />
                                                               </span>
                                                             </span>
                                                           </div>
@@ -7222,7 +7222,7 @@ export default function page() {
                                                                 requirements.
                                                               </span>
                                                             </span>
-                                                            <bdt className="statement-end-if-in-editor">
+                                                            <p className="statement-end-if-in-editor">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
@@ -7230,7 +7230,7 @@ export default function page() {
                                                               >
                                                                 <span data-custom-class="body_text" />
                                                               </span>
-                                                            </bdt>
+                                                            </p>
                                                             <span
                                                               style={{
                                                                 fontSize: 15,
@@ -7280,7 +7280,7 @@ export default function page() {
                                                                                     "rgb(89, 89, 89)",
                                                                                 }}
                                                                               >
-                                                                                <bdt className="block-component" />
+                                                                                <p className="block-component" />
                                                                               </span>
                                                                             </span>
                                                                           </span>
@@ -7349,7 +7349,7 @@ export default function page() {
                                                                   features or
                                                                   services of
                                                                   our Services.{" "}
-                                                                  <bdt className="block-component">
+                                                                  <p className="block-component">
                                                                     <span
                                                                       style={{
                                                                         fontSize: 15,
@@ -7362,7 +7362,7 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           <span
                                                                             style={{
                                                                               fontSize: 15,
@@ -7396,7 +7396,7 @@ export default function page() {
                                                                                           "rgb(89, 89, 89)",
                                                                                       }}
                                                                                     >
-                                                                                      <bdt className="statement-end-if-in-editor" />
+                                                                                      <p className="statement-end-if-in-editor" />
                                                                                     </span>
                                                                                   </span>
                                                                                 </span>
@@ -7406,11 +7406,11 @@ export default function page() {
                                                                         </span>
                                                                       </span>
                                                                     </span>
-                                                                  </bdt>
+                                                                  </p>
                                                                 </span>
                                                               </span>
                                                             </span>
-                                                            <bdt className="block-component">
+                                                            <p className="block-component">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
@@ -7418,7 +7418,7 @@ export default function page() {
                                                               >
                                                                 <span data-custom-class="body_text" />
                                                               </span>
-                                                            </bdt>
+                                                            </p>
                                                           </div>
                                                           <div
                                                             style={{
@@ -7444,13 +7444,13 @@ export default function page() {
                                                                 your privacy
                                                                 rights, you may
                                                                 email us at{" "}
-                                                                <bdt className="question">
+                                                                <p className="question">
                                                                   office@scufflr.com
-                                                                </bdt>
+                                                                </p>
                                                                 .
                                                               </span>
                                                             </span>
-                                                            <bdt className="statement-end-if-in-editor">
+                                                            <p className="statement-end-if-in-editor">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
@@ -7458,7 +7458,7 @@ export default function page() {
                                                               >
                                                                 <span data-custom-class="body_text" />
                                                               </span>
-                                                            </bdt>
+                                                            </p>
                                                           </div>
                                                           <div
                                                             style={{
@@ -7547,9 +7547,9 @@ export default function page() {
                                                                   applications
                                                                   include a
                                                                   Do-Not-Track (
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   "DNT"
-                                                                  <bdt className="statement-end-if-in-editor" />
+                                                                  <p className="statement-end-if-in-editor" />
                                                                   ) feature or
                                                                   setting you
                                                                   can activate
@@ -7567,16 +7567,16 @@ export default function page() {
                                                                   uniform
                                                                   technology
                                                                   standard for{" "}
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   recognizing
-                                                                  <bdt className="statement-end-if-in-editor" />{" "}
+                                                                  <p className="statement-end-if-in-editor" />{" "}
                                                                   and
                                                                   implementing
                                                                   DNT signals
                                                                   has been{" "}
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   finalized
-                                                                  <bdt className="statement-end-if-in-editor" />
+                                                                  <p className="statement-end-if-in-editor" />
                                                                   . As such, we
                                                                   do not
                                                                   currently
@@ -7607,13 +7607,13 @@ export default function page() {
                                                                 </span>
                                                               </span>
                                                             </span>
-                                                            <bdt className="block-component">
+                                                            <p className="block-component">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
                                                                 }}
                                                               />
-                                                            </bdt>
+                                                            </p>
                                                           </div>
                                                           <div
                                                             style={{
@@ -7650,26 +7650,26 @@ export default function page() {
                                                                 industry or
                                                                 legal standard
                                                                 for{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 recognizing
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 or{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 honoring
-                                                                <bdt className="statement-end-if-in-editor" />{" "}
+                                                                <p className="statement-end-if-in-editor" />{" "}
                                                                 DNT signals, we
                                                                 do not respond
                                                                 to them at this
                                                                 time.
                                                               </span>
                                                             </span>
-                                                            <bdt className="statement-end-if-in-editor">
+                                                            <p className="statement-end-if-in-editor">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
                                                                 }}
                                                               />
-                                                            </bdt>
+                                                            </p>
                                                           </div>
                                                           <div
                                                             style={{
@@ -7691,7 +7691,7 @@ export default function page() {
                                                                 }}
                                                               >
                                                                 <span data-custom-class="body_text">
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                 </span>
                                                               </span>
                                                             </span>
@@ -7787,7 +7787,7 @@ export default function page() {
                                                                   <em>
                                                                     If you are a
                                                                     resident of
-                                                                    <bdt className="block-component" />{" "}
+                                                                    <p className="block-component" />{" "}
                                                                     California,
                                                                     Colorado,
                                                                     Connecticut,
@@ -7806,7 +7806,7 @@ export default function page() {
                                                                     Tennessee,
                                                                     Texas, Utah,
                                                                     or Virginia
-                                                                    <bdt className="else-block" />
+                                                                    <p className="else-block" />
                                                                     , you may
                                                                     have the
                                                                     right to
@@ -8155,13 +8155,13 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component">
-                                                                            <bdt className="block-component" />
-                                                                          </bdt>
+                                                                          <p className="block-component">
+                                                                            <p className="block-component" />
+                                                                          </p>
                                                                           YES
-                                                                          <bdt className="else-block">
-                                                                            <bdt className="block-component" />
-                                                                          </bdt>
+                                                                          <p className="else-block">
+                                                                            <p className="block-component" />
+                                                                          </p>
                                                                         </span>
                                                                       </span>
                                                                     </span>
@@ -8183,7 +8183,7 @@ export default function page() {
                                                               lineHeight: "1.5",
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </div>
                                                           <table
                                                             style={{
@@ -8327,13 +8327,13 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="forloop-component">
-                                                                            <bdt className="block-component">
-                                                                              <bdt className="block-component" />
+                                                                          <p className="forloop-component">
+                                                                            <p className="block-component">
+                                                                              <p className="block-component" />
                                                                               YES
-                                                                              <bdt className="block-component" />
-                                                                            </bdt>
-                                                                          </bdt>
+                                                                              <p className="block-component" />
+                                                                            </p>
+                                                                          </p>
                                                                         </span>
                                                                       </span>
                                                                     </span>
@@ -8355,7 +8355,7 @@ export default function page() {
                                                               lineHeight: "1.5",
                                                             }}
                                                           >
-                                                            <bdt className="block-component" />
+                                                            <p className="block-component" />
                                                           </div>
                                                           <table
                                                             style={{
@@ -8397,9 +8397,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           C
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                           .
                                                                           Protected
                                                                           classification
@@ -8493,15 +8493,15 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="forloop-component">
+                                                                    <p className="forloop-component">
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
+                                                                        <p className="block-component" />
                                                                         YES
-                                                                        <bdt className="else-block" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="else-block" />
+                                                                        <p className="block-component" />
                                                                       </span>
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -8547,9 +8547,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           D
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                           .
                                                                           Commercial
                                                                           information
@@ -8630,16 +8630,16 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="forloop-component">
+                                                                    <p className="forloop-component">
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
+                                                                        <p className="block-component" />
                                                                         NO
-                                                                        <bdt className="statement-end-if-in-editor">
-                                                                          <bdt className="block-component" />
-                                                                        </bdt>
+                                                                        <p className="statement-end-if-in-editor">
+                                                                          <p className="block-component" />
+                                                                        </p>
                                                                       </span>
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -8685,9 +8685,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           E
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                           .
                                                                           Biometric
                                                                           information
@@ -8762,16 +8762,16 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="forloop-component">
+                                                                    <p className="forloop-component">
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component">
-                                                                          <bdt className="block-component">
+                                                                        <p className="block-component">
+                                                                          <p className="block-component">
                                                                             YES
-                                                                          </bdt>
-                                                                          <bdt className="block-component" />
-                                                                        </bdt>
+                                                                          </p>
+                                                                          <p className="block-component" />
+                                                                        </p>
                                                                       </span>
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -8817,9 +8817,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           F
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                           .
                                                                           Internet
                                                                           or
@@ -8868,9 +8868,9 @@ export default function page() {
                                                                           search
                                                                           history,
                                                                           online{" "}
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           behavior
-                                                                          <bdt className="statement-end-if-in-editor" />
+                                                                          <p className="statement-end-if-in-editor" />
                                                                           ,
                                                                           interest
                                                                           data,
@@ -8917,15 +8917,15 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="forloop-component">
+                                                                    <p className="forloop-component">
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
+                                                                        <p className="block-component" />
                                                                         NO
-                                                                        <bdt className="statement-end-if-in-editor" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="statement-end-if-in-editor" />
+                                                                        <p className="block-component" />
                                                                       </span>
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -8971,9 +8971,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           G
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                           .
                                                                           Geolocation
                                                                           data
@@ -9047,15 +9047,15 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="forloop-component">
+                                                                    <p className="forloop-component">
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
+                                                                        <p className="block-component" />
                                                                         YES
-                                                                        <bdt className="else-block" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="else-block" />
+                                                                        <p className="block-component" />
                                                                       </span>
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -9101,9 +9101,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           H
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                           .
                                                                           Audio,
                                                                           electronic,
@@ -9193,15 +9193,15 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="forloop-component">
+                                                                    <p className="forloop-component">
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
+                                                                        <p className="block-component" />
                                                                         YES
-                                                                        <bdt className="else-block" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="else-block" />
+                                                                        <p className="block-component" />
                                                                       </span>
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -9247,9 +9247,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           I
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                           .
                                                                           Professional
                                                                           or
@@ -9349,15 +9349,15 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="forloop-component">
+                                                                    <p className="forloop-component">
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
+                                                                        <p className="block-component" />
                                                                         NO
-                                                                        <bdt className="statement-end-if-in-editor" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="statement-end-if-in-editor" />
+                                                                        <p className="block-component" />
                                                                       </span>
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -9403,9 +9403,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           J
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                           .
                                                                           Education
                                                                           Information
@@ -9482,15 +9482,15 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="forloop-component">
+                                                                    <p className="forloop-component">
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
+                                                                        <p className="block-component" />
                                                                         NO
-                                                                        <bdt className="statement-end-if-in-editor" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="statement-end-if-in-editor" />
+                                                                        <p className="block-component" />
                                                                       </span>
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -9535,9 +9535,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           K
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                           .
                                                                           Inferences
                                                                           drawn
@@ -9642,7 +9642,7 @@ export default function page() {
                                                                     }}
                                                                   >
                                                                     <span data-custom-class="body_text">
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                     <span
                                                                       style={{
@@ -9660,7 +9660,7 @@ export default function page() {
                                                                       >
                                                                         <span data-custom-class="body_text">
                                                                           YES
-                                                                          <bdt className="else-block" />
+                                                                          <p className="else-block" />
                                                                         </span>
                                                                       </span>
                                                                     </span>
@@ -9689,9 +9689,9 @@ export default function page() {
                                                                   }}
                                                                 >
                                                                   <span data-custom-class="body_text">
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                     L
-                                                                    <bdt className="else-block" />
+                                                                    <p className="else-block" />
                                                                     . Sensitive
                                                                     personal
                                                                     Information
@@ -9707,57 +9707,57 @@ export default function page() {
                                                                       "1.5",
                                                                   }}
                                                                 >
-                                                                  <bdt className="block-component">
+                                                                  <p className="block-component">
                                                                     <span data-custom-class="body_text" />
-                                                                  </bdt>
+                                                                  </p>
                                                                   <span data-custom-class="body_text">
-                                                                    <bdt className="forloop-component" />
-                                                                    <bdt className="block-component" />
-                                                                    <bdt className="question">
+                                                                    <p className="forloop-component" />
+                                                                    <p className="block-component" />
+                                                                    <p className="question">
                                                                       Account
                                                                       login
                                                                       information
-                                                                    </bdt>
-                                                                    <bdt className="else-block" />
-                                                                    <bdt className="forloop-component" />
-                                                                    <bdt className="block-component" />
+                                                                    </p>
+                                                                    <p className="else-block" />
+                                                                    <p className="forloop-component" />
+                                                                    <p className="block-component" />
                                                                     ,{" "}
-                                                                    <bdt className="question">
+                                                                    <p className="question">
                                                                       biometric
                                                                       data
-                                                                    </bdt>
-                                                                    <bdt className="else-block" />
-                                                                    <bdt className="forloop-component" />
-                                                                    <bdt className="block-component" />
+                                                                    </p>
+                                                                    <p className="else-block" />
+                                                                    <p className="forloop-component" />
+                                                                    <p className="block-component" />
                                                                     ,{" "}
-                                                                    <bdt className="question">
+                                                                    <p className="question">
                                                                       national
                                                                       origin
-                                                                    </bdt>
-                                                                    <bdt className="else-block" />
-                                                                    <bdt className="forloop-component" />
-                                                                    <bdt className="block-component" />
+                                                                    </p>
+                                                                    <p className="else-block" />
+                                                                    <p className="forloop-component" />
+                                                                    <p className="block-component" />
                                                                     ,{" "}
-                                                                    <bdt className="question">
+                                                                    <p className="question">
                                                                       precise
                                                                       geolocation
-                                                                    </bdt>
-                                                                    <bdt className="else-block" />
-                                                                    <bdt className="forloop-component" />
-                                                                    <bdt className="block-component" />{" "}
+                                                                    </p>
+                                                                    <p className="else-block" />
+                                                                    <p className="forloop-component" />
+                                                                    <p className="block-component" />{" "}
                                                                     and{" "}
-                                                                    <bdt className="question">
+                                                                    <p className="question">
                                                                       status as
                                                                       transgender
                                                                       or
                                                                       nonbinary
-                                                                    </bdt>
-                                                                    <bdt className="statement-end-if-in-editor" />
-                                                                    <bdt className="forloop-component" />
+                                                                    </p>
+                                                                    <p className="statement-end-if-in-editor" />
+                                                                    <p className="forloop-component" />
                                                                   </span>
-                                                                  <bdt className="statement-end-if-in-editor">
+                                                                  <p className="statement-end-if-in-editor">
                                                                     <span data-custom-class="body_text" />
-                                                                  </bdt>
+                                                                  </p>
                                                                 </td>
                                                                 <td
                                                                   style={{
@@ -9786,12 +9786,12 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span data-custom-class="body_text" />
-                                                                    </bdt>
+                                                                    </p>
                                                                     <span data-custom-class="body_text">
                                                                       YES
-                                                                      <bdt className="else-block" />
+                                                                      <p className="else-block" />
                                                                     </span>
                                                                   </div>
                                                                   <div
@@ -9812,13 +9812,13 @@ export default function page() {
                                                               lineHeight: "1.5",
                                                             }}
                                                           >
-                                                            <bdt className="block-component">
+                                                            <p className="block-component">
                                                               <span
                                                                 style={{
                                                                   fontSize: 15,
                                                                 }}
                                                               />
-                                                            </bdt>
+                                                            </p>
                                                           </div>
                                                           <div
                                                             style={{
@@ -9866,7 +9866,7 @@ export default function page() {
                                                                 your sensitive
                                                                 personal
                                                                 information.
-                                                                <bdt className="block-component" />{" "}
+                                                                <p className="block-component" />{" "}
                                                                 We do not
                                                                 collect or
                                                                 process
@@ -9877,9 +9877,9 @@ export default function page() {
                                                                 inferring
                                                                 characteristics
                                                                 about you.
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                               </span>
-                                                              <bdt className="statement-end-if-in-editor" />
+                                                              <p className="statement-end-if-in-editor" />
                                                             </span>
                                                           </div>
                                                           <div
@@ -9915,7 +9915,7 @@ export default function page() {
                                                                 mail in the
                                                                 context of:
                                                               </span>
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                             </span>
                                                           </div>
                                                           <ul>
@@ -9935,7 +9935,7 @@ export default function page() {
                                                                 through our
                                                                 customer support
                                                                 channels;
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                               </span>
                                                             </li>
                                                           </ul>
@@ -9945,7 +9945,7 @@ export default function page() {
                                                                 fontSize: 15,
                                                               }}
                                                             >
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                             </span>
                                                           </div>
                                                           <ul>
@@ -9958,7 +9958,7 @@ export default function page() {
                                                                 Participation in
                                                                 customer surveys
                                                                 or contests; and
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                <p className="statement-end-if-in-editor" />
                                                               </span>
                                                             </li>
                                                           </ul>
@@ -9968,7 +9968,7 @@ export default function page() {
                                                                 fontSize: 15,
                                                               }}
                                                             >
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                             </span>
                                                           </div>
                                                           <ul>
@@ -9984,13 +9984,13 @@ export default function page() {
                                                                 to respond to
                                                                 your inquiries.
                                                               </span>
-                                                              <bdt className="statement-end-if-in-editor">
+                                                              <p className="statement-end-if-in-editor">
                                                                 <span
                                                                   style={{
                                                                     fontSize: 15,
                                                                   }}
                                                                 />
-                                                              </bdt>
+                                                              </p>
                                                             </li>
                                                           </ul>
                                                           <div
@@ -9998,9 +9998,9 @@ export default function page() {
                                                               lineHeight: "1.5",
                                                             }}
                                                           >
-                                                            <bdt className="block-component">
+                                                            <p className="block-component">
                                                               <span data-custom-class="body_text" />
-                                                            </bdt>
+                                                            </p>
                                                             <span data-custom-class="body_text">
                                                               We will use and
                                                               retain the
@@ -10009,7 +10009,7 @@ export default function page() {
                                                               needed to provide
                                                               the Services or
                                                               for:
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                             </span>
                                                           </div>
                                                           <ul>
@@ -10022,13 +10022,13 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text">
                                                                 Category A -{" "}
-                                                                <bdt className="question">
+                                                                <p className="question">
                                                                   As long as the
                                                                   user has an
                                                                   account with
                                                                   us
-                                                                </bdt>
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                </p>
+                                                                <p className="statement-end-if-in-editor" />
                                                               </span>
                                                             </li>
                                                           </ul>
@@ -10038,9 +10038,9 @@ export default function page() {
                                                             }}
                                                           >
                                                             <span data-custom-class="body_text">
-                                                              <bdt className="block-component">
-                                                                <bdt className="block-component" />
-                                                              </bdt>
+                                                              <p className="block-component">
+                                                                <p className="block-component" />
+                                                              </p>
                                                             </span>
                                                           </div>
                                                           <ul>
@@ -10053,13 +10053,13 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text">
                                                                 Category B -{" "}
-                                                                <bdt className="question">
+                                                                <p className="question">
                                                                   As long as the
                                                                   user has an
                                                                   account with
                                                                   us
-                                                                </bdt>
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                </p>
+                                                                <p className="statement-end-if-in-editor" />
                                                               </span>
                                                             </li>
                                                           </ul>
@@ -10069,7 +10069,7 @@ export default function page() {
                                                             }}
                                                           >
                                                             <span data-custom-class="body_text">
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                             </span>
                                                           </div>
                                                           <ul>
@@ -10082,17 +10082,17 @@ export default function page() {
                                                             >
                                                               <span data-custom-class="body_text">
                                                                 Category{" "}
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                                 C
-                                                                <bdt className="else-block" />{" "}
+                                                                <p className="else-block" />{" "}
                                                                 -{" "}
-                                                                <bdt className="question">
+                                                                <p className="question">
                                                                   As long as the
                                                                   user has an
                                                                   account with
                                                                   us
-                                                                </bdt>
-                                                                <bdt className="statement-end-if-in-editor" />
+                                                                </p>
+                                                                <p className="statement-end-if-in-editor" />
                                                               </span>
                                                             </li>
                                                           </ul>
@@ -10102,7 +10102,7 @@ export default function page() {
                                                             }}
                                                           >
                                                             <span data-custom-class="body_text">
-                                                              <bdt className="block-component" />
+                                                              <p className="block-component" />
                                                             </span>
                                                             <div
                                                               style={{
@@ -10111,7 +10111,7 @@ export default function page() {
                                                               }}
                                                             >
                                                               <span data-custom-class="body_text">
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                               </span>
                                                             </div>
                                                             <ul>
@@ -10124,17 +10124,17 @@ export default function page() {
                                                               >
                                                                 <span data-custom-class="body_text">
                                                                   Category{" "}
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                   E
-                                                                  <bdt className="else-block" />{" "}
+                                                                  <p className="else-block" />{" "}
                                                                   -{" "}
-                                                                  <bdt className="question">
+                                                                  <p className="question">
                                                                     As long as
                                                                     the user has
                                                                     an account
                                                                     with us
-                                                                  </bdt>
-                                                                  <bdt className="statement-end-if-in-editor" />
+                                                                  </p>
+                                                                  <p className="statement-end-if-in-editor" />
                                                                 </span>
                                                               </li>
                                                             </ul>
@@ -10145,7 +10145,7 @@ export default function page() {
                                                               }}
                                                             >
                                                               <span data-custom-class="body_text">
-                                                                <bdt className="block-component" />
+                                                                <p className="block-component" />
                                                               </span>
                                                               <div
                                                                 style={{
@@ -10154,7 +10154,7 @@ export default function page() {
                                                                 }}
                                                               >
                                                                 <span data-custom-class="body_text">
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                 </span>
                                                               </div>
                                                               <ul>
@@ -10167,18 +10167,18 @@ export default function page() {
                                                                 >
                                                                   <span data-custom-class="body_text">
                                                                     Category{" "}
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                     G
-                                                                    <bdt className="else-block" />{" "}
+                                                                    <p className="else-block" />{" "}
                                                                     -{" "}
-                                                                    <bdt className="question">
+                                                                    <p className="question">
                                                                       As long as
                                                                       the user
                                                                       has an
                                                                       account
                                                                       with us
-                                                                    </bdt>
-                                                                    <bdt className="statement-end-if-in-editor" />
+                                                                    </p>
+                                                                    <p className="statement-end-if-in-editor" />
                                                                   </span>
                                                                 </li>
                                                               </ul>
@@ -10189,7 +10189,7 @@ export default function page() {
                                                                 }}
                                                               >
                                                                 <span data-custom-class="body_text">
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                 </span>
                                                               </div>
                                                               <ul>
@@ -10202,18 +10202,18 @@ export default function page() {
                                                                 >
                                                                   <span data-custom-class="body_text">
                                                                     Category{" "}
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                     H
-                                                                    <bdt className="else-block" />{" "}
+                                                                    <p className="else-block" />{" "}
                                                                     -{" "}
-                                                                    <bdt className="question">
+                                                                    <p className="question">
                                                                       As long as
                                                                       the user
                                                                       has an
                                                                       account
                                                                       with us
-                                                                    </bdt>
-                                                                    <bdt className="statement-end-if-in-editor" />
+                                                                    </p>
+                                                                    <p className="statement-end-if-in-editor" />
                                                                   </span>
                                                                 </li>
                                                               </ul>
@@ -10224,7 +10224,7 @@ export default function page() {
                                                                 }}
                                                               >
                                                                 <span data-custom-class="body_text">
-                                                                  <bdt className="block-component" />
+                                                                  <p className="block-component" />
                                                                 </span>
                                                                 <div
                                                                   style={{
@@ -10233,7 +10233,7 @@ export default function page() {
                                                                   }}
                                                                 >
                                                                   <span data-custom-class="body_text">
-                                                                    <bdt className="block-component" />
+                                                                    <p className="block-component" />
                                                                   </span>
                                                                   <div
                                                                     style={{
@@ -10242,7 +10242,7 @@ export default function page() {
                                                                     }}
                                                                   >
                                                                     <span data-custom-class="body_text">
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -10255,11 +10255,11 @@ export default function page() {
                                                                     >
                                                                       <span data-custom-class="body_text">
                                                                         Category{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         K
-                                                                        <bdt className="else-block" />{" "}
+                                                                        <p className="else-block" />{" "}
                                                                         -{" "}
-                                                                        <bdt className="question">
+                                                                        <p className="question">
                                                                           As
                                                                           long
                                                                           as the
@@ -10268,8 +10268,8 @@ export default function page() {
                                                                           account
                                                                           with
                                                                           us
-                                                                        </bdt>
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        </p>
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -10280,7 +10280,7 @@ export default function page() {
                                                                     }}
                                                                   >
                                                                     <span data-custom-class="body_text">
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -10293,11 +10293,11 @@ export default function page() {
                                                                     >
                                                                       <span data-custom-class="body_text">
                                                                         Category{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         L
-                                                                        <bdt className="else-block" />{" "}
+                                                                        <p className="else-block" />{" "}
                                                                         -{" "}
-                                                                        <bdt className="question">
+                                                                        <p className="question">
                                                                           As
                                                                           long
                                                                           as the
@@ -10306,12 +10306,12 @@ export default function page() {
                                                                           account
                                                                           with
                                                                           us
-                                                                        </bdt>
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        </p>
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
-                                                                      <bdt className="statement-end-if-in-editor">
+                                                                      <p className="statement-end-if-in-editor">
                                                                         <span data-custom-class="body_text" />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </li>
                                                                   </ul>
                                                                   <div
@@ -10353,9 +10353,9 @@ export default function page() {
                                                                         we
                                                                         collect
                                                                         in{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </span>
                                                                     <span data-custom-class="body_text">
@@ -10383,12 +10383,12 @@ export default function page() {
                                                                       }}
                                                                     >
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "
                                                                       </span>
-                                                                      <bdt className="statement-end-if-in-editor">
+                                                                      <p className="statement-end-if-in-editor">
                                                                         <span data-custom-class="body_text" />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </span>
                                                                     <span
                                                                       style={{
@@ -10425,7 +10425,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                       Learn more
                                                                       about how
                                                                       we use
@@ -10434,9 +10434,9 @@ export default function page() {
                                                                       information
                                                                       in the
                                                                       section,{" "}
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                       "
-                                                                      <bdt className="statement-end-if-in-editor" />
+                                                                      <p className="statement-end-if-in-editor" />
                                                                     </span>
                                                                     <a
                                                                       data-custom-class="link"
@@ -10462,17 +10462,17 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                       "
                                                                     </span>
-                                                                    <bdt className="statement-end-if-in-editor">
+                                                                    <p className="statement-end-if-in-editor">
                                                                       <span
                                                                         data-custom-class="body_text"
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -10511,7 +10511,7 @@ export default function page() {
                                                                             }}
                                                                           >
                                                                             <span data-custom-class="body_text">
-                                                                              <bdt className="block-component" />
+                                                                              <p className="block-component" />
                                                                             </span>
                                                                           </span>
                                                                         </span>
@@ -10610,9 +10610,9 @@ export default function page() {
                                                                           to in
                                                                           the
                                                                           section,{" "}
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           "
-                                                                          <bdt className="statement-end-if-in-editor" />
+                                                                          <p className="statement-end-if-in-editor" />
                                                                         </span>
                                                                       </span>
                                                                     </span>
@@ -10661,9 +10661,9 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           "
-                                                                          <bdt className="statement-end-if-in-editor" />
+                                                                          <p className="statement-end-if-in-editor" />
                                                                         </span>
                                                                       </span>
                                                                     </span>
@@ -10721,9 +10721,9 @@ export default function page() {
                                                                           is not
                                                                           considered
                                                                           to be{" "}
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           "selling"
-                                                                          <bdt className="statement-end-if-in-editor" />{" "}
+                                                                          <p className="statement-end-if-in-editor" />{" "}
                                                                           of
                                                                           your
                                                                           personal
@@ -10736,7 +10736,7 @@ export default function page() {
                                                                             }}
                                                                           >
                                                                             <span data-custom-class="body_text">
-                                                                              <bdt className="block-component" />
+                                                                              <p className="block-component" />
                                                                             </span>
                                                                           </span>
                                                                         </span>
@@ -10842,12 +10842,12 @@ export default function page() {
                                                                                     }}
                                                                                   >
                                                                                     <span data-custom-class="body_text">
-                                                                                      <bdt className="statement-end-if-in-editor" />
+                                                                                      <p className="statement-end-if-in-editor" />
                                                                                     </span>
                                                                                   </span>
                                                                                 </span>
                                                                               </span>
-                                                                              <bdt className="block-component" />
+                                                                              <p className="block-component" />
                                                                             </span>
                                                                           </span>
                                                                         </span>
@@ -10861,7 +10861,7 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                         </span>
                                                                       </span>
                                                                     </span>
@@ -10906,7 +10906,7 @@ export default function page() {
                                                                         rights
                                                                         include:
                                                                       </span>
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -10934,7 +10934,7 @@ export default function page() {
                                                                         your
                                                                         personal
                                                                         data
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -10949,7 +10949,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -10973,7 +10973,7 @@ export default function page() {
                                                                         your
                                                                         personal
                                                                         data
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -10988,7 +10988,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -11013,7 +11013,7 @@ export default function page() {
                                                                         in your
                                                                         personal
                                                                         data
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -11028,7 +11028,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -11054,7 +11054,7 @@ export default function page() {
                                                                         of your
                                                                         personal
                                                                         data
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -11069,7 +11069,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -11098,7 +11098,7 @@ export default function page() {
                                                                         previously
                                                                         shared
                                                                         with us
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -11113,7 +11113,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -11138,7 +11138,7 @@ export default function page() {
                                                                         exercising
                                                                         your
                                                                         rights
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -11153,7 +11153,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -11183,7 +11183,7 @@ export default function page() {
                                                                         used for
                                                                         targeted
                                                                         advertising
-                                                                        <bdt className="block-component" />{" "}
+                                                                        <p className="block-component" />{" "}
                                                                         (or
                                                                         sharing
                                                                         as
@@ -11192,7 +11192,7 @@ export default function page() {
                                                                         California’s
                                                                         privacy
                                                                         law)
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                         , the
                                                                         sale of
                                                                         personal
@@ -11209,11 +11209,11 @@ export default function page() {
                                                                         significant
                                                                         effects
                                                                         (
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "profiling"
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                         )
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -11228,7 +11228,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <div
@@ -11255,7 +11255,7 @@ export default function page() {
                                                                         following
                                                                         rights:
                                                                       </span>
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -11289,7 +11289,7 @@ export default function page() {
                                                                         Minnesota’s
                                                                         privacy
                                                                         law)
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -11304,7 +11304,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -11337,14 +11337,14 @@ export default function page() {
                                                                         applicable
                                                                         law,
                                                                         including
-                                                                        <bdt className="block-component" />{" "}
+                                                                        <p className="block-component" />{" "}
                                                                         California's
                                                                         and
                                                                         Delaware's
-                                                                        <bdt className="else-block" />{" "}
+                                                                        <p className="else-block" />{" "}
                                                                         privacy
                                                                         law)
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -11354,13 +11354,13 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <ul>
                                                                     <li
@@ -11391,21 +11391,21 @@ export default function page() {
                                                                         applicable
                                                                         law,
                                                                         including
-                                                                        <bdt className="block-component" />{" "}
+                                                                        <p className="block-component" />{" "}
                                                                         Minnesota's
                                                                         and
                                                                         Oregon's
-                                                                        <bdt className="else-block" />{" "}
+                                                                        <p className="else-block" />{" "}
                                                                         privacy
                                                                         law)
                                                                       </span>{" "}
-                                                                      <bdt className="statement-end-if-in-editor">
+                                                                      <p className="statement-end-if-in-editor">
                                                                         <span
                                                                           style={{
                                                                             fontSize: 15,
                                                                           }}
                                                                         />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </li>
                                                                   </ul>
                                                                   <div
@@ -11419,7 +11419,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -11455,7 +11455,7 @@ export default function page() {
                                                                         Minnesota’s
                                                                         privacy
                                                                         law)
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -11465,13 +11465,13 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <ul>
                                                                     <li
@@ -11503,13 +11503,13 @@ export default function page() {
                                                                         privacy
                                                                         law)
                                                                       </span>
-                                                                      <bdt className="statement-end-if-in-editor">
+                                                                      <p className="statement-end-if-in-editor">
                                                                         <span
                                                                           style={{
                                                                             fontSize: 15,
                                                                           }}
                                                                         />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </li>
                                                                   </ul>
                                                                   <div
@@ -11518,13 +11518,13 @@ export default function page() {
                                                                         "1.5",
                                                                     }}
                                                                   >
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <ul>
                                                                     <li
@@ -11567,13 +11567,13 @@ export default function page() {
                                                                         privacy
                                                                         law)
                                                                       </span>
-                                                                      <bdt className="statement-end-if-in-editor">
+                                                                      <p className="statement-end-if-in-editor">
                                                                         <span
                                                                           style={{
                                                                             fontSize: 15,
                                                                           }}
                                                                         />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </li>
                                                                   </ul>
                                                                   <div
@@ -11587,7 +11587,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="statement-end-if-in-editor" />
+                                                                      <p className="statement-end-if-in-editor" />
                                                                     </span>
                                                                     <strong>
                                                                       <span
@@ -11629,7 +11629,7 @@ export default function page() {
                                                                           can
                                                                           contact
                                                                           us{" "}
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           by
                                                                           submitting
                                                                           a&nbsp;
@@ -11679,7 +11679,7 @@ export default function page() {
                                                                       >
                                                                         <span data-custom-class="body_text">
                                                                           ,{" "}
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                         </span>
                                                                         <span
                                                                           style={{
@@ -11697,26 +11697,26 @@ export default function page() {
                                                                               }}
                                                                             >
                                                                               <span data-custom-class="body_text">
-                                                                                <bdt className="block-component" />
+                                                                                <p className="block-component" />
                                                                                 by
                                                                                 emailing
                                                                                 us
                                                                                 at{" "}
-                                                                                <bdt className="question">
+                                                                                <p className="question">
                                                                                   office@scufflr.com
-                                                                                </bdt>
+                                                                                </p>
 
                                                                                 ,{" "}
-                                                                                <bdt className="statement-end-if-in-editor" />
-                                                                                <bdt className="block-component" />
+                                                                                <p className="statement-end-if-in-editor" />
+                                                                                <p className="block-component" />
                                                                               </span>
                                                                               <span data-custom-class="body_text">
-                                                                                <bdt className="block-component" />
-                                                                                <bdt className="block-component">
+                                                                                <p className="block-component" />
+                                                                                <p className="block-component">
                                                                                   <span data-custom-class="body_text">
-                                                                                    <bdt className="block-component" />
+                                                                                    <p className="block-component" />
                                                                                   </span>
-                                                                                </bdt>
+                                                                                </p>
                                                                               </span>
                                                                             </span>
                                                                           </span>
@@ -11733,20 +11733,20 @@ export default function page() {
                                                                       of this
                                                                       document.
                                                                     </span>
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
-                                                                    <bdt className="block-component">
+                                                                    </p>
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -11775,9 +11775,9 @@ export default function page() {
                                                                     >
                                                                       <span data-custom-class="body_text">
                                                                         We will{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         honor
-                                                                        <bdt className="statement-end-if-in-editor" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />{" "}
                                                                         your
                                                                         opt-out
                                                                         preferences
@@ -11819,13 +11819,13 @@ export default function page() {
                                                                         browser.
                                                                       </span>
                                                                     </span>
-                                                                    <bdt className="statement-end-if-in-editor">
+                                                                    <p className="statement-end-if-in-editor">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -11856,9 +11856,9 @@ export default function page() {
                                                                         you can
                                                                         designate
                                                                         an{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         authorized
-                                                                        <bdt className="statement-end-if-in-editor" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />{" "}
                                                                         agent to
                                                                         make a
                                                                         request
@@ -11868,9 +11868,9 @@ export default function page() {
                                                                         deny a
                                                                         request
                                                                         from an{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         authorized
-                                                                        <bdt className="statement-end-if-in-editor" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />{" "}
                                                                         agent
                                                                         that
                                                                         does not
@@ -11881,9 +11881,9 @@ export default function page() {
                                                                         have
                                                                         been
                                                                         validly{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         authorized
-                                                                        <bdt className="statement-end-if-in-editor" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />{" "}
                                                                         to act
                                                                         on your
                                                                         behalf
@@ -12002,9 +12002,9 @@ export default function page() {
                                                                         request
                                                                         through
                                                                         an{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         authorized
-                                                                        <bdt className="statement-end-if-in-editor" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />{" "}
                                                                         agent,
                                                                         we may
                                                                         need to
@@ -12038,13 +12038,13 @@ export default function page() {
                                                                         behalf.
                                                                       </span>
                                                                     </span>
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                     <span
                                                                       style={{
                                                                         fontSize: 15,
@@ -12078,11 +12078,11 @@ export default function page() {
                                                                         by
                                                                         emailing
                                                                         us at{" "}
-                                                                        <bdt className="block-component" />
-                                                                        <bdt className="question">
+                                                                        <p className="block-component" />
+                                                                        <p className="question">
                                                                           office@scufflr.com
-                                                                        </bdt>
-                                                                        <bdt className="else-block" />
+                                                                        </p>
+                                                                        <p className="else-block" />
                                                                         . We
                                                                         will
                                                                         inform
@@ -12116,7 +12116,7 @@ export default function page() {
                                                                         attorney
                                                                         general.
                                                                       </span>
-                                                                      <bdt className="statement-end-if-in-editor" />
+                                                                      <p className="statement-end-if-in-editor" />
                                                                     </span>
                                                                     <span
                                                                       style={{
@@ -12140,20 +12140,20 @@ export default function page() {
                                                                           }}
                                                                         >
                                                                           <span data-custom-class="body_text">
-                                                                            <bdt className="block-component">
-                                                                              <bdt className="block-component" />
-                                                                            </bdt>
+                                                                            <p className="block-component">
+                                                                              <p className="block-component" />
+                                                                            </p>
                                                                           </span>
                                                                         </span>
                                                                       </span>
                                                                     </span>
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                     <span
                                                                       style={{
                                                                         fontSize: 15,
@@ -12163,11 +12163,11 @@ export default function page() {
                                                                         <span data-custom-class="heading_2">
                                                                           <h3>
                                                                             California{" "}
-                                                                            <bdt className="block-component" />
+                                                                            <p className="block-component" />
                                                                             "Shine
                                                                             The
                                                                             Light"
-                                                                            <bdt className="statement-end-if-in-editor" />{" "}
+                                                                            <p className="statement-end-if-in-editor" />{" "}
                                                                             Law
                                                                           </h3>
                                                                         </span>
@@ -12181,11 +12181,11 @@ export default function page() {
                                                                         also
                                                                         known as
                                                                         the{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "Shine
                                                                         The
                                                                         Light"
-                                                                        <bdt className="statement-end-if-in-editor" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />{" "}
                                                                         law,
                                                                         permits
                                                                         our
@@ -12258,9 +12258,9 @@ export default function page() {
                                                                         provided
                                                                         in the
                                                                         section{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </span>
                                                                     <span data-custom-class="body_text">
@@ -12292,20 +12292,20 @@ export default function page() {
                                                                       }}
                                                                     >
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "
                                                                       </span>
-                                                                      <bdt className="statement-end-if-in-editor">
+                                                                      <p className="statement-end-if-in-editor">
                                                                         <span data-custom-class="body_text" />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </span>
-                                                                    <bdt className="statement-end-if-in-editor">
+                                                                    <p className="statement-end-if-in-editor">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                     <span
                                                                       style={{
                                                                         fontSize: 15,
@@ -12352,7 +12352,7 @@ export default function page() {
                                                                                       }}
                                                                                     >
                                                                                       <span data-custom-class="body_text">
-                                                                                        <bdt className="statement-end-if-in-editor">
+                                                                                        <p className="statement-end-if-in-editor">
                                                                                           <span data-custom-class="body_text">
                                                                                             <span
                                                                                               style={{
@@ -12400,9 +12400,9 @@ export default function page() {
                                                                                                               }}
                                                                                                             >
                                                                                                               <span data-custom-class="body_text">
-                                                                                                                <bdt className="statement-end-if-in-editor">
-                                                                                                                  <bdt className="statement-end-if-in-editor" />
-                                                                                                                </bdt>
+                                                                                                                <p className="statement-end-if-in-editor">
+                                                                                                                  <p className="statement-end-if-in-editor" />
+                                                                                                                </p>
                                                                                                               </span>
                                                                                                             </span>
                                                                                                           </span>
@@ -12414,7 +12414,7 @@ export default function page() {
                                                                                               </span>
                                                                                             </span>
                                                                                           </span>
-                                                                                        </bdt>
+                                                                                        </p>
                                                                                       </span>
                                                                                     </span>
                                                                                   </span>
@@ -12425,13 +12425,13 @@ export default function page() {
                                                                         </span>
                                                                       </span>
                                                                     </span>
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -12500,7 +12500,7 @@ export default function page() {
                                                                           in.
                                                                         </span>
                                                                       </em>
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                       &nbsp;
                                                                     </span>
                                                                   </div>
@@ -12515,9 +12515,9 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component">
+                                                                      <p className="block-component">
                                                                         <span data-custom-class="heading_2" />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </span>
                                                                   </div>
                                                                   <div
@@ -12536,22 +12536,22 @@ export default function page() {
                                                                           <strong>
                                                                             Australia
                                                                           </strong>
-                                                                          <bdt className="statement-end-if-in-editor" />
-                                                                          <bdt className="block-component" />{" "}
+                                                                          <p className="statement-end-if-in-editor" />
+                                                                          <p className="block-component" />{" "}
                                                                           <strong>
                                                                             and
                                                                           </strong>{" "}
-                                                                          <bdt className="statement-end-if-in-editor" />
-                                                                          <bdt className="block-component" />
+                                                                          <p className="statement-end-if-in-editor" />
+                                                                          <p className="block-component" />
                                                                           <strong>
                                                                             New
                                                                             Zealand
                                                                           </strong>
                                                                         </h3>
                                                                       </span>{" "}
-                                                                      <bdt className="statement-end-if-in-editor">
+                                                                      <p className="statement-end-if-in-editor">
                                                                         <span data-custom-class="heading_2" />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </span>
                                                                   </div>
                                                                   <div
@@ -12579,20 +12579,20 @@ export default function page() {
                                                                         and
                                                                         conditions
                                                                         set by{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         Australia's
                                                                         Privacy
                                                                         Act 1988
-                                                                        <bdt className="statement-end-if-in-editor" />
-                                                                        <bdt className="block-component" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />
+                                                                        <p className="block-component" />{" "}
                                                                         and{" "}
-                                                                        <bdt className="statement-end-if-in-editor" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="statement-end-if-in-editor" />
+                                                                        <p className="block-component" />
                                                                         New
                                                                         Zealand's
                                                                         Privacy
                                                                         Act 2020
-                                                                        <bdt className="statement-end-if-in-editor" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />{" "}
                                                                         (Privacy
                                                                         Act).
                                                                       </span>
@@ -12633,11 +12633,11 @@ export default function page() {
                                                                         requirements
                                                                         defined
                                                                         in
-                                                                        <bdt className="block-component" />{" "}
+                                                                        <p className="block-component" />{" "}
                                                                         both
                                                                         Privacy
                                                                         Acts
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         , in
                                                                         particular:
                                                                         what
@@ -12697,9 +12697,9 @@ export default function page() {
                                                                         information
                                                                         necessary
                                                                         to{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         fulfill
-                                                                        <bdt className="statement-end-if-in-editor" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />{" "}
                                                                         their
                                                                         applicable
                                                                         purpose,
@@ -12727,7 +12727,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -12754,7 +12754,7 @@ export default function page() {
                                                                           you
                                                                           want
                                                                         </span>
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -12769,7 +12769,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -12793,7 +12793,7 @@ export default function page() {
                                                                           your
                                                                           requests
                                                                         </span>
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -12808,7 +12808,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -12831,7 +12831,7 @@ export default function page() {
                                                                           with
                                                                           us
                                                                         </span>
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -12846,7 +12846,7 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="block-component" />
+                                                                      <p className="block-component" />
                                                                     </span>
                                                                   </div>
                                                                   <ul>
@@ -12871,7 +12871,7 @@ export default function page() {
                                                                           your
                                                                           account
                                                                         </span>
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </li>
                                                                   </ul>
@@ -12913,9 +12913,9 @@ export default function page() {
                                                                         provided
                                                                         in the
                                                                         section{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                         <a
                                                                           data-custom-class="link"
                                                                           href="#request"
@@ -12943,12 +12943,12 @@ export default function page() {
                                                                             </span>
                                                                           </span>
                                                                         </a>
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "
                                                                       </span>
-                                                                      <bdt className="statement-end-if-in-editor">
+                                                                      <p className="statement-end-if-in-editor">
                                                                         <span data-custom-class="body_text" />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </span>
                                                                   </div>
                                                                   <div
@@ -12991,7 +12991,7 @@ export default function page() {
                                                                         submit a
                                                                         complaint
                                                                         about{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         a breach
                                                                         of the
                                                                         Australian
@@ -13020,11 +13020,11 @@ export default function page() {
                                                                             </span>
                                                                           </span>
                                                                         </a>
-                                                                        <bdt className="statement-end-if-in-editor" />
-                                                                        <bdt className="block-component" />{" "}
+                                                                        <p className="statement-end-if-in-editor" />
+                                                                        <p className="block-component" />{" "}
                                                                         and{" "}
-                                                                        <bdt className="statement-end-if-in-editor" />
-                                                                        <bdt className="block-component" />
+                                                                        <p className="statement-end-if-in-editor" />
+                                                                        <p className="block-component" />
                                                                         a breach
                                                                         of New
                                                                         Zealand's
@@ -13053,18 +13053,18 @@ export default function page() {
                                                                             </span>
                                                                           </span>
                                                                         </a>
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                         .
                                                                       </span>
-                                                                      <bdt className="statement-end-if-in-editor" />
+                                                                      <p className="statement-end-if-in-editor" />
                                                                     </span>
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                     <span
                                                                       style={{
                                                                         fontSize: 15,
@@ -13107,9 +13107,9 @@ export default function page() {
                                                                         provided
                                                                         in the
                                                                         section{" "}
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "
-                                                                        <bdt className="statement-end-if-in-editor" />
+                                                                        <p className="statement-end-if-in-editor" />
                                                                       </span>
                                                                     </span>
                                                                     <span data-custom-class="link">
@@ -13145,12 +13145,12 @@ export default function page() {
                                                                       }}
                                                                     >
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="block-component" />
+                                                                        <p className="block-component" />
                                                                         "
                                                                       </span>
-                                                                      <bdt className="statement-end-if-in-editor">
+                                                                      <p className="statement-end-if-in-editor">
                                                                         <span data-custom-class="body_text" />
-                                                                      </bdt>
+                                                                      </p>
                                                                     </span>
                                                                   </div>
                                                                   <div
@@ -13358,16 +13358,16 @@ export default function page() {
                                                                         fontSize: 15,
                                                                       }}
                                                                     >
-                                                                      <bdt className="statement-end-if-in-editor" />
-                                                                      <bdt className="statement-end-if-in-editor" />
+                                                                      <p className="statement-end-if-in-editor" />
+                                                                      <p className="statement-end-if-in-editor" />
                                                                     </span>
-                                                                    <bdt className="block-component">
+                                                                    <p className="block-component">
                                                                       <span
                                                                         style={{
                                                                           fontSize: 15,
                                                                         }}
                                                                       />
-                                                                    </bdt>
+                                                                    </p>
                                                                   </div>
                                                                   <div
                                                                     style={{
@@ -13522,9 +13522,9 @@ export default function page() {
                                                                           indicated
                                                                           by an
                                                                           updated{" "}
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           "Revised"
-                                                                          <bdt className="statement-end-if-in-editor" />{" "}
+                                                                          <p className="statement-end-if-in-editor" />{" "}
                                                                           date
                                                                           at the
                                                                           top of
@@ -13677,19 +13677,19 @@ export default function page() {
                                                                             }}
                                                                           >
                                                                             <span data-custom-class="body_text">
-                                                                              <bdt className="block-component">
-                                                                                <bdt className="block-component" />
-                                                                              </bdt>
+                                                                              <p className="block-component">
+                                                                                <p className="block-component" />
+                                                                              </p>
                                                                               email
                                                                               us
                                                                               at{" "}
-                                                                              <bdt className="question">
+                                                                              <p className="question">
                                                                                 office@scufflr.com
                                                                                 or&nbsp;
-                                                                              </bdt>
-                                                                              <bdt className="statement-end-if-in-editor">
-                                                                                <bdt className="block-component" />
-                                                                              </bdt>
+                                                                              </p>
+                                                                              <p className="statement-end-if-in-editor">
+                                                                                <p className="block-component" />
+                                                                              </p>
                                                                             </span>
                                                                           </span>
                                                                           <span
@@ -13766,9 +13766,9 @@ export default function page() {
                                                                                 }}
                                                                               >
                                                                                 <span data-custom-class="body_text">
-                                                                                  <bdt className="question">
+                                                                                  <p className="question">
                                                                                     Scufflr
-                                                                                  </bdt>
+                                                                                  </p>
                                                                                 </span>
                                                                               </span>
                                                                             </span>
@@ -13782,7 +13782,7 @@ export default function page() {
                                                                             }}
                                                                           >
                                                                             <span data-custom-class="body_text">
-                                                                              <bdt className="block-component" />
+                                                                              <p className="block-component" />
                                                                             </span>
                                                                           </span>
                                                                         </span>
@@ -13801,11 +13801,11 @@ export default function page() {
                                                                       }}
                                                                     >
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="question">
+                                                                        <p className="question">
                                                                           Sofia
                                                                           blok
                                                                           12
-                                                                        </bdt>
+                                                                        </p>
                                                                         <span
                                                                           style={{
                                                                             color:
@@ -13817,7 +13817,7 @@ export default function page() {
                                                                               fontSize: 15,
                                                                             }}
                                                                           >
-                                                                            <bdt className="block-component" />
+                                                                            <p className="block-component" />
                                                                           </span>
                                                                         </span>
                                                                       </span>
@@ -13835,9 +13835,9 @@ export default function page() {
                                                                       }}
                                                                     >
                                                                       <span data-custom-class="body_text">
-                                                                        <bdt className="question">
+                                                                        <p className="question">
                                                                           Sofia
-                                                                        </bdt>
+                                                                        </p>
                                                                         <span
                                                                           style={{
                                                                             color:
@@ -13849,19 +13849,19 @@ export default function page() {
                                                                               fontSize: 15,
                                                                             }}
                                                                           >
-                                                                            <bdt className="block-component" />
+                                                                            <p className="block-component" />
                                                                             ,{" "}
-                                                                            <bdt className="question">
+                                                                            <p className="question">
                                                                               Sofia
-                                                                            </bdt>
-                                                                            <bdt className="statement-end-if-in-editor" />
-                                                                            <bdt className="block-component" />{" "}
-                                                                            <bdt className="question">
+                                                                            </p>
+                                                                            <p className="statement-end-if-in-editor" />
+                                                                            <p className="block-component" />{" "}
+                                                                            <p className="question">
                                                                               1700
-                                                                            </bdt>
-                                                                            <bdt className="statement-end-if-in-editor" />
-                                                                            <bdt className="block-component" />
-                                                                            <bdt className="block-component" />
+                                                                            </p>
+                                                                            <p className="statement-end-if-in-editor" />
+                                                                            <p className="block-component" />
+                                                                            <p className="block-component" />
                                                                           </span>
                                                                         </span>
                                                                       </span>
@@ -13891,13 +13891,13 @@ export default function page() {
                                                                                   "rgb(89, 89, 89)",
                                                                               }}
                                                                             >
-                                                                              <bdt className="block-component" />
+                                                                              <p className="block-component" />
                                                                             </span>
                                                                           </span>
                                                                         </span>
-                                                                        <bdt className="question">
+                                                                        <p className="question">
                                                                           Bulgaria
-                                                                        </bdt>
+                                                                        </p>
                                                                         <span
                                                                           style={{
                                                                             fontSize: 15,
@@ -13910,7 +13910,7 @@ export default function page() {
                                                                                   "rgb(89, 89, 89)",
                                                                               }}
                                                                             >
-                                                                              <bdt className="statement-end-if-in-editor">
+                                                                              <p className="statement-end-if-in-editor">
                                                                                 <span
                                                                                   style={{
                                                                                     fontSize: 15,
@@ -13923,7 +13923,7 @@ export default function page() {
                                                                                           "rgb(89, 89, 89)",
                                                                                       }}
                                                                                     >
-                                                                                      <bdt className="statement-end-if-in-editor">
+                                                                                      <p className="statement-end-if-in-editor">
                                                                                         <span
                                                                                           style={{
                                                                                             fontSize: 15,
@@ -13936,12 +13936,12 @@ export default function page() {
                                                                                                   "rgb(89, 89, 89)",
                                                                                               }}
                                                                                             >
-                                                                                              <bdt className="statement-end-if-in-editor" />
+                                                                                              <p className="statement-end-if-in-editor" />
                                                                                             </span>
                                                                                           </span>
                                                                                         </span>
-                                                                                      </bdt>
-                                                                                      <bdt className="statement-end-if-in-editor" />
+                                                                                      </p>
+                                                                                      <p className="statement-end-if-in-editor" />
                                                                                     </span>
                                                                                   </span>
                                                                                 </span>
@@ -13957,11 +13957,11 @@ export default function page() {
                                                                                         fontSize: 15,
                                                                                       }}
                                                                                     >
-                                                                                      <bdt className="statement-end-if-in-editor" />
+                                                                                      <p className="statement-end-if-in-editor" />
                                                                                     </span>
                                                                                   </span>
                                                                                 </span>
-                                                                              </bdt>
+                                                                              </p>
                                                                             </span>
                                                                           </span>
                                                                         </span>
@@ -13979,7 +13979,7 @@ export default function page() {
                                                                                   "rgb(89, 89, 89)",
                                                                               }}
                                                                             >
-                                                                              <bdt className="statement-end-if-in-editor">
+                                                                              <p className="statement-end-if-in-editor">
                                                                                 <span
                                                                                   style={{
                                                                                     color:
@@ -13992,23 +13992,23 @@ export default function page() {
                                                                                     }}
                                                                                   >
                                                                                     <span data-custom-class="body_text">
-                                                                                      <bdt className="block-component">
-                                                                                        <bdt className="block-component" />
-                                                                                      </bdt>
+                                                                                      <p className="block-component">
+                                                                                        <p className="block-component" />
+                                                                                      </p>
                                                                                     </span>
                                                                                   </span>
                                                                                 </span>
-                                                                              </bdt>
+                                                                              </p>
                                                                             </span>
                                                                           </span>
                                                                         </span>
-                                                                        <bdt className="block-component">
+                                                                        <p className="block-component">
                                                                           <span
                                                                             style={{
                                                                               fontSize: 15,
                                                                             }}
                                                                           />
-                                                                        </bdt>
+                                                                        </p>
                                                                         <span
                                                                           style={{
                                                                             fontSize: 15,
@@ -14028,9 +14028,9 @@ export default function page() {
                                                                                 }}
                                                                               >
                                                                                 <span data-custom-class="body_text">
-                                                                                  <bdt className="statement-end-if-in-editor">
-                                                                                    <bdt className="block-component" />
-                                                                                  </bdt>
+                                                                                  <p className="statement-end-if-in-editor">
+                                                                                    <p className="block-component" />
+                                                                                  </p>
                                                                                 </span>
                                                                               </span>
                                                                             </span>
@@ -14128,7 +14128,7 @@ export default function page() {
                                                                         }}
                                                                       >
                                                                         <span data-custom-class="body_text">
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           You
                                                                           have
                                                                           the
@@ -14163,7 +14163,7 @@ export default function page() {
                                                                           the
                                                                           right
                                                                           to{" "}
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           withdraw
                                                                           your
                                                                           consent
@@ -14194,7 +14194,7 @@ export default function page() {
                                                                           personal
                                                                           information,
                                                                           please{" "}
-                                                                          <bdt className="block-component" />
+                                                                          <p className="block-component" />
                                                                           fill
                                                                           out
                                                                           and
@@ -14229,9 +14229,9 @@ export default function page() {
                                                                             </span>
                                                                           </span>
                                                                         </span>
-                                                                        <bdt className="block-component">
+                                                                        <p className="block-component">
                                                                           <span data-custom-class="body_text" />
-                                                                        </bdt>
+                                                                        </p>
                                                                       </span>
                                                                     </span>
                                                                     <span data-custom-class="body_text">
