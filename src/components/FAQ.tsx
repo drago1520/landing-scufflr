@@ -32,13 +32,13 @@ const FAQ: React.FC = () => {
           >
             office@scufflr.com
           </a>
-          <a
-            href="tel:+359988700631"
+          {/* <a
+            href="tel:+359988700632"
             target="_blank" rel="noopener"
             className="mt-3 block text-xl lg:text-4xl text-secondary font-semibold hover:underline text-center lg:text-left"
           >
-            +359 988 700 631
-          </a>
+            +359 988 700 632
+          </a> */}
           <div className="mt-3 flex justify-center hover:underline gap-8">
             <a href={footerDetails.viber} target="_blank" rel="noopener">
               <FaViber size={24} color="purple" />
