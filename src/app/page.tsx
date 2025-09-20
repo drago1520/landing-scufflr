@@ -38,7 +38,7 @@ const HomePage: React.FC = () => {
         <Section
           id="pricing"
           title="Pricing"
-          description="Users registered before February 2025 get the app lifetime for free. Simple and transparent."
+          description="Users registered before February 2026 get the app lifetime for free. Simple and transparent."
         >
           {/* <Pricing /> */}
         </Section>
